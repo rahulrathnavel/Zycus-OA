@@ -88,10 +88,10 @@
         "Burn Health Ratio": 0.01,
         "Slippage_Score": 0.0,
         "Burn_Score": 0.99,
-        "Blocker_Score": 0.5,
-        "Total_Risk": 0.39749999999999996,
-        "RAG_Status": "Amber",
-        "AI_Reasoning": "Could not evaluate project health due to API error."
+        "Blocker_Score": 0.0,
+        "Total_Risk": 0.2475,
+        "RAG_Status": "Green",
+        "AI_Reasoning": "The project's health is highly concerning due to an extremely low burn health ratio of 0.01, which suggests near-zero budget consumption or a stalled project. While there are no explicit blockers documented and the schedule variance is unknown, this severe burn anomaly indicates a critical lack of progress or activity."
     },
     {
         "No.of days Until Today": "Unknown",
@@ -229,10 +229,10 @@
         "Burn Health Ratio": 0.01,
         "Slippage_Score": 0.0,
         "Burn_Score": 0.99,
-        "Blocker_Score": 0.5,
-        "Total_Risk": 0.39749999999999996,
-        "RAG_Status": "Amber",
-        "AI_Reasoning": "Could not evaluate project health due to API error."
+        "Blocker_Score": 0.0,
+        "Total_Risk": 0.2475,
+        "RAG_Status": "Green",
+        "AI_Reasoning": "No explicit blockers can be identified because the project status and comments are unknown. However, the project's burn health ratio is critically low at 0.01, indicating severe budget under-utilization or potential project inactivity that requires immediate investigation, despite the lack of schedule variance data."
     },
     {
         "No.of days Until Today": "Unknown",
@@ -276,10 +276,10 @@
         "Burn Health Ratio": 0.01,
         "Slippage_Score": 0.0,
         "Burn_Score": 0.99,
-        "Blocker_Score": 0.5,
-        "Total_Risk": 0.39749999999999996,
-        "RAG_Status": "Amber",
-        "AI_Reasoning": "Could not evaluate project health due to API error."
+        "Blocker_Score": 0.0,
+        "Total_Risk": 0.2475,
+        "RAG_Status": "Green",
+        "AI_Reasoning": "No explicit blockers can be identified due to missing status comments, resulting in a blocker score of 0.0. However, the project exhibits a critically low burn health ratio of 0.01, signaling severe financial under-utilization or stagnation that threatens project health, despite the schedule variance being unknown."
     },
     {
         "No.of days Until Today": "Unknown",
@@ -417,10 +417,10 @@
         "Burn Health Ratio": 0.01,
         "Slippage_Score": 0.0,
         "Burn_Score": 0.99,
-        "Blocker_Score": 0.5,
-        "Total_Risk": 0.39749999999999996,
-        "RAG_Status": "Amber",
-        "AI_Reasoning": "Could not evaluate project health due to API error."
+        "Blocker_Score": 0.0,
+        "Total_Risk": 0.2475,
+        "RAG_Status": "Green",
+        "AI_Reasoning": "The project's health is highly critical and uncertain. While schedule variance and status comments are unknown (resulting in a blocker score of 0.0 due to lack of explicit data), the Burn Health Ratio of 0.01 is extremely low, indicating severe budget stagnation, minimal progress, or financial distress."
     },
     {
         "No.of days Until Today": "Unknown",
@@ -464,9 +464,9 @@
         "Burn Health Ratio": 0.01,
         "Slippage_Score": 0.0,
         "Burn_Score": 0.99,
-        "Blocker_Score": 0.5,
-        "Total_Risk": 0.39749999999999996,
-        "RAG_Status": "Amber",
-        "AI_Reasoning": "Could not evaluate project health due to API error."
+        "Blocker_Score": 0.0,
+        "Total_Risk": 0.2475,
+        "RAG_Status": "Green",
+        "AI_Reasoning": "The project's schedule variance and status comments are unknown, meaning no explicit blockers can be identified. However, the Burn Health Ratio is critically low at 0.01, indicating a severe under-burn or budget inefficiency that poses a major risk to project viability despite the lack of documented blockers."
     }
 ]
