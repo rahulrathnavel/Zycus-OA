@@ -1,0 +1,495 @@
+Project Name,Project Category,Ancestors,Project Manager,Level,Phase/Milestone,At Risk?,Schedule Health,Task Name,Status,Start Date,End Date,% Complete,On Hold?,Not Applicable?,Duration,Predecessors,Description,Owner,OwnerShip,Priority,Total Float,Critical ?,Baseline Start,Baseline Finish,Variance,Status Comment,Area,Comments,Assigned To,Start,Finish,RAG
+,#UNPARSEABLE,0,Aftab Hashambhai,0,,,Green,Zycus - Titan S2P Implementation,In Progress,2025-12-05,2026-12-07,0.71,,,262d,,,,,,0.0,1.0,2026-05-03,2026-05-20,-2d,,,,,,,
+,#UNPARSEABLE,0,Aftab Hashambhai,0,,,Yellow,Phase 1- S2C,In Progress,2025-12-05,2026-07-14,0.92,,,158d,,,,,,104.0,,2025-12-05,2026-07-02,-6d,,,,abhilasha.s@zycus.com,,,Yellow
+,#UNPARSEABLE,1,Aftab Hashambhai,1,Project Initiation,,Green,Contract Sign Off,Completed,2025-12-05,2025-12-05,1.0,,,1d,,,,,,261.0,,2025-12-05,2025-12-05,0,,,,abhilasha.s@zycus.com,,,Green
+,#UNPARSEABLE,2,Aftab Hashambhai,2,,,Green,Contract signing between Titan and Zycus,Completed,2025-12-05,2025-12-05,1.0,,,1d,,,,,,261.0,,2025-12-05,2025-12-05,0,,,,"Titan Project Sponsor, Zycus Sales",,,Green
+,#UNPARSEABLE,2,Aftab Hashambhai,2,,,Green,Contract Sign Off,Completed,2025-12-05,2025-12-05,1.0,,,0,,,,,,261.9999999653,,2025-12-05,2025-12-05,0,,,,,,,Green
+,#UNPARSEABLE,1,Aftab Hashambhai,1,Data Gathering,,Green,Project Initiation and Data Gathering,Completed,2025-12-15,2026-02-27,1.0,,,55d,,,,,,201.0,,2025-12-15,2026-02-27,0,,,,abhilasha.s@zycus.com,,,Green
+,#UNPARSEABLE,2,Aftab Hashambhai,2,,,Green,Project Kick Off,Completed,2025-12-15,2026-02-06,1.0,,,40d,,,,,,216.0,,2025-12-15,2026-02-06,0,,,,,,,Green
+,#UNPARSEABLE,3,Aftab Hashambhai,3,,,Green,Review Contract Scope,Completed,2025-12-15,2025-12-15,1.0,,,1d,,,,,,255.0,,2025-12-15,2025-12-15,0,,,,Zycus Project Resources Manager,,,Green
+,#UNPARSEABLE,3,Aftab Hashambhai,3,,,Green,Assign Project Team and Internal communication,Completed,2025-12-19,2025-12-19,1.0,,,1d,,,,,,251.0,,2025-12-19,2025-12-19,0,,,,Zycus Project Resources Manager,,,Green
+,#UNPARSEABLE,3,Aftab Hashambhai,3,,,Green,Zycus Project Team mobilization and Team alignment,Completed,2025-12-19,2025-12-19,1.0,,,1d,,,,,,251.0,,2025-12-19,2025-12-19,0,,,,Zycus Project Resources Manager,,,Green
+,#UNPARSEABLE,3,Aftab Hashambhai,3,,,Green,"Setup Project [Server, Email alias, Internal Applications, Central Drive, Internal ticket for STAGING Set Up]",Completed,2026-01-05,2026-01-05,1.0,,,1d,,,,,,240.0,,2026-01-05,2026-01-05,0,,,,Zycus Project Team,,,Green
+,#UNPARSEABLE,3,Aftab Hashambhai,3,,,Green,Raise ticket for STAGING Set Up creation,Completed,2026-01-05,2026-01-05,1.0,,,1d,,,,,,240.0,,2026-01-05,2026-01-05,0,,,,Zycus Product Specialist,,,Green
+,#UNPARSEABLE,3,Aftab Hashambhai,3,,,Green,Sales / PreSales / Pilots handover,Completed,2026-01-07,2026-01-07,1.0,,,1d,,,,,,238.0,,2026-01-07,2026-01-07,0,,,,"Zycus Project Manager, Zycus Project Team, Zycus Sales",,,Green
+,#UNPARSEABLE,3,Aftab Hashambhai,3,,,Green,Pre-kick off meeting with internal stakeholders,Completed,2026-01-16,2026-01-16,1.0,,,1d,,,,,,231.0,,2026-01-16,2026-01-16,0,,,,"Zycus Project Manager, Zycus Project Team, Zycus Sales",,,Green
+,#UNPARSEABLE,3,Aftab Hashambhai,3,,,Green,Finalize kick off meeting schedule,Completed,2026-01-16,2026-01-16,1.0,,,1d,,,,,,231.0,,2026-01-16,2026-01-16,0,,,,"Titan Project Manager, Titan Project Sponsor, Zycus Sales",,,Green
+,#UNPARSEABLE,3,Aftab Hashambhai,3,,,Green,Kick off meeting [Introduction Meeting],Completed,2026-01-20,2026-01-20,1.0,,,1d,,,,,,229.0,,2026-01-20,2026-01-20,0,,,,"Titan Core Project Team, Titan Project Manager, Zycus Consultant, Zycus Product Specialist, Zycus Project Manager, Zycus Project Team",,,Green
+,#UNPARSEABLE,3,Aftab Hashambhai,3,,,Green,"Share Product specific templates [Questionnaire, Product specific Pre-Requisites, Workshop Agenda, User Details template] with Titan",Completed,2026-02-02,2026-02-06,1.0,,,5d,,,,,,216.0,,2026-02-02,2026-02-06,0,,,,"Zycus Product Specialist, Zycus Project Manager",,,Green
+,#UNPARSEABLE,2,Aftab Hashambhai,2,,,Green,Zycus Project Set-Up,Completed,2026-01-26,2026-02-02,1.0,,,6d,,,,,,220.0,,2026-01-26,2026-02-02,0,,,,,,,Green
+,#UNPARSEABLE,2,Aftab Hashambhai,2,,,Green,Kick-off Meeting,Completed,2026-01-20,2026-01-20,1.0,,,0,,,,,,229.9999999653,,2026-01-20,2026-01-20,0,,,,,,,Green
+,#UNPARSEABLE,2,Aftab Hashambhai,2,,,Green,Data gathering & pre-requisites complete. Ready for onsite workshop,Completed,2026-02-02,2026-02-27,1.0,,,20d,,,,,,201.0,,2026-02-02,2026-02-27,0,,,,,,,Green
+,#UNPARSEABLE,2,Aftab Hashambhai,2,,,Green,Zycus BootCamp,Completed,2026-01-27,2026-02-02,1.0,,,5d,,,,,,220.0,,2026-01-27,2026-02-02,0,,,,,,,Green
+,#UNPARSEABLE,3,Aftab Hashambhai,3,,,Green,Intake with iSupplier,Completed,2026-01-27,2026-01-27,1.0,,,1d,,,,,,224.0,,2026-01-27,2026-01-27,0,,,,,,,Green
+,#UNPARSEABLE,3,Aftab Hashambhai,3,,,Green,iRisk,Completed,2026-01-27,2026-01-27,1.0,,,1d,,,,,,224.0,,2026-01-27,2026-01-27,0,,,,,,,Green
+,#UNPARSEABLE,3,Aftab Hashambhai,3,,,Green,Intake with isource & ANA,Completed,2026-01-28,2026-01-28,1.0,,,1d,,,,,,223.0,,2026-01-28,2026-01-28,0,,,,,,,Green
+,#UNPARSEABLE,3,Aftab Hashambhai,3,,,Green,Intake with iContract,Completed,2026-02-02,2026-02-02,1.0,,,1d,,,,,,220.0,,2026-02-02,2026-02-02,0,,,,,,,Green
+,#UNPARSEABLE,2,Aftab Hashambhai,2,,,Green,Pre-design workshop session for integration,Completed,2026-02-06,2026-02-20,1.0,,,11d,,,,,,206.0,,2026-02-06,2026-02-20,0,,,,,,,Green
+,#UNPARSEABLE,3,Aftab Hashambhai,3,,,Green,Pre design integration Sesion -isupplier,Completed,2026-02-09,2026-02-10,1.0,,,2d,,,,,,214.0,,2026-02-09,2026-02-10,0,,,,,,,Green
+,#UNPARSEABLE,3,Aftab Hashambhai,3,,,Green,Pre design integration Sesion -users,Completed,2026-02-13,2026-02-13,1.0,,,1d,,,,,,211.0,,2026-02-13,2026-02-13,0,,,,,,,Green
+,#UNPARSEABLE,3,Aftab Hashambhai,3,,,Green,Predesign integration session -iMaster,Completed,2026-02-16,2026-02-16,1.0,,,1d,,,,,,210.0,,2026-02-16,2026-02-16,0,,,,,,,Green
+,#UNPARSEABLE,3,Aftab Hashambhai,3,,,Green,Sample data collection,Completed,2026-02-06,2026-02-06,1.0,,,1d,,,,,,216.0,,2026-02-06,2026-02-06,0,,,,,,,Green
+,#UNPARSEABLE,4,Aftab Hashambhai,4,,,Green,Legacy data collection for supplier,Completed,2026-02-06,2026-02-06,1.0,,,1d,,,,,,216.0,,2026-02-06,2026-02-06,0,,,,,,,Green
+,#UNPARSEABLE,4,Aftab Hashambhai,4,,,Green,Legacy data collection for PO,Completed,2026-02-06,2026-02-06,1.0,,,1d,,,,,,216.0,,2026-02-06,2026-02-06,0,,,,,,,Green
+,#UNPARSEABLE,4,Aftab Hashambhai,4,,,Green,Legacy data collection for Contracts,Completed,2026-02-06,2026-02-06,1.0,,,1d,,,,,,216.0,,2026-02-06,2026-02-06,0,,,,,,,Green
+,#UNPARSEABLE,3,Aftab Hashambhai,3,,,Green,System Setup Based on Samples,Completed,2026-02-13,2026-02-20,1.0,,,6d,,,,,,206.0,,2026-02-13,2026-02-20,0,,,,,,,Green
+,#UNPARSEABLE,4,Aftab Hashambhai,4,,,Green,Configure system using collected sample data.,Completed,2026-02-13,2026-02-20,1.0,,,6d,,,,,,206.0,,2026-02-13,2026-02-20,0,,,,,,,Green
+,#UNPARSEABLE,1,Aftab Hashambhai,1,Requirement Workshop,,Green,Configuration Documentation Workshop,Completed,2026-02-03,2026-03-20,1.0,,,34d,,,,,,186.0,,2026-02-03,2026-03-23,1d,,,,abhilasha.s@zycus.com,,,Yellow
+,#UNPARSEABLE,2,Aftab Hashambhai,2,,,Green,Configuration Documentation Workshop- Functional,Completed,2026-02-03,2026-02-20,1.0,,,14d,,,,,,206.0,,2026-02-03,2026-03-13,15d,,,,abhilasha.s@zycus.com,,,Green
+,#UNPARSEABLE,3,Aftab Hashambhai,3,,,Green,As-is Process walkthrough by Titan,Completed,2026-02-03,2026-02-20,1.0,,,14d,,,,,,206.0,,2026-02-03,2026-02-20,0,,,,,,,Green
+,#UNPARSEABLE,4,Aftab Hashambhai,4,,,Green,iSupplier-As Is Process Discussion,Completed,2026-02-03,2026-02-04,1.0,,,2d,,,,,,218.0,,2026-02-03,2026-02-04,0,,,,,,,Green
+,#UNPARSEABLE,4,Aftab Hashambhai,4,,,Green,iSource-As Is Process Discussion,Completed,2026-02-13,2026-02-13,1.0,,,1d,,,,,,211.0,,2026-02-13,2026-02-13,0,,,,,,,Green
+,#UNPARSEABLE,4,Aftab Hashambhai,4,,,Green,iContract-As Is Process Discussion,Completed,2026-02-17,2026-02-17,1.0,,,1d,,,,,,209.0,,2026-02-17,2026-02-17,0,,,,,,,Green
+,#UNPARSEABLE,4,Aftab Hashambhai,4,,,Green,iRequest-As Is Process Discussion,Completed,2026-02-18,2026-02-18,1.0,,,1d,,,,,,208.0,,2026-02-18,2026-02-18,0,,,,,,,Green
+,#UNPARSEABLE,4,Aftab Hashambhai,4,,,Green,iRisk-As Is Process Discussion,Completed,2026-02-19,2026-02-20,1.0,,,2d,,,,,,206.0,,2026-02-19,2026-02-20,0,,,,,,,Green
+,#UNPARSEABLE,2,Aftab Hashambhai,2,,,Green,Onsite- Design Session-Design Session Completion and Sign off,Completed,2026-03-02,2026-03-20,1.0,,,15d,,,,,,186.0,,2026-03-02,2026-03-13,7d,,,,abhilasha.s@zycus.com,,,Green
+,#UNPARSEABLE,3,Aftab Hashambhai,3,,,Green,Workshop Kick-off & Introductions,Completed,2026-03-02,2026-03-02,1.0,,,1d,,,,,,200.0,,2026-03-02,2026-03-02,0,,,,,,,Green
+,#UNPARSEABLE,3,Aftab Hashambhai,3,,,Green,iSupplier To-Be Process Design (Reg & Onboarding),Completed,2026-03-03,2026-03-03,1.0,,,1d,,,,,,199.0,,2026-03-03,2026-03-03,0,,,,,,,Green
+,#UNPARSEABLE,3,Aftab Hashambhai,3,,,Green,iSupplier To-Be Process Design (Data Mgmt & Perf),Completed,2026-03-04,2026-03-04,1.0,,,1d,,,,,,198.0,,2026-03-04,2026-03-04,0,,,,,,,Green
+,#UNPARSEABLE,3,Aftab Hashambhai,3,,,Green,iRisk-As Is Process Discussion,Completed,2026-03-06,2026-03-06,1.0,,,1d,,,,,,196.0,,2026-03-06,2026-03-06,0,,,,,,,Green
+,#UNPARSEABLE,3,Aftab Hashambhai,3,,,Green,iSource-As Is Process Discussion & ANA functional Design and configuration Discussion,Completed,2026-03-09,2026-03-09,1.0,,,1d,,,,,,195.0,,2026-03-09,2026-03-09,0,,,,,,,Green
+,#UNPARSEABLE,3,Aftab Hashambhai,3,,,Green,iContract-As Is Process Discussion & Intake with iContract functional Design and configuration,Completed,2026-03-10,2026-03-10,1.0,,,1d,,,,,,194.0,,2026-03-10,2026-03-10,0,,,,,,,Green
+,#UNPARSEABLE,3,Aftab Hashambhai,3,,,Green,iRequest-As Is Process Discussion,Completed,2026-03-11,2026-03-11,1.0,,,1d,,,,,,193.0,,2026-03-11,2026-03-11,0,,,,,,,Green
+,#UNPARSEABLE,3,Aftab Hashambhai,3,,,Green,"Consolidated review of proposed solution and ""To-Be"" design.",Completed,2026-03-12,2026-03-12,1.0,,,1d,,,,,,192.0,,2026-03-12,2026-03-12,0,,,,abhilasha.s@zycus.com,,,Green
+,#UNPARSEABLE,3,Aftab Hashambhai,3,,,Green,"Review Risks, Assumptions, Issues, and Dependencies (RAID log),Next Steps",Completed,2026-03-12,2026-03-12,1.0,,,1d,,,,,,192.0,,2026-03-12,2026-03-12,0,,,,abhilasha.s@zycus.com,,,Green
+,#UNPARSEABLE,3,Aftab Hashambhai,3,,,Green,Legacy Migration Discussion and Approach,Completed,2026-03-13,2026-03-13,1.0,,,1d,,,,,,191.0,,2026-03-13,2026-03-13,0,,,,abhilasha.s@zycus.com,,,Green
+,#UNPARSEABLE,3,Aftab Hashambhai,3,,,Green,Go Value discussion & Project Plan,Completed,2026-03-13,2026-03-20,1.0,,,6d,,,,,,186.0,,2026-03-13,2026-03-13,-5d,,,Yet to recieve Sign off,abhilasha.s@zycus.com,,,Yellow
+,#UNPARSEABLE,3,Aftab Hashambhai,3,,,Green,Draft IAD discussion & Sign off,Completed,2026-03-12,2026-03-20,1.0,,,7d,,,,,,186.0,,2026-03-12,2026-03-12,-6d,,,Yet to recieve Sign off,abhilasha.s@zycus.com,,,Green
+,#UNPARSEABLE,2,Aftab Hashambhai,2,,,Green,Integration Configuration Documentation Workshop,Completed,2026-03-04,2026-03-05,1.0,,,2d,,,,,,197.0,,2026-03-04,2026-03-05,0,,,,"Titan IT Project Manager, Titan Integration Team, Titan Project Manager, Zycus Integration Team, Zycus Project Manager",,,Green
+,#UNPARSEABLE,3,Aftab Hashambhai,3,,,Green,iSupplier outbound,Not Applicable,2026-03-04,2026-03-05,1.0,,1.0,2d,,,,,,197.0,,2026-03-04,2026-03-05,0,,,,,,,Yellow
+,#UNPARSEABLE,4,Aftab Hashambhai,4,,,Green,iSupplier Integration Overview,Not Applicable,2026-03-04,2026-03-04,1.0,,1.0,1d,,,,,,198.0,,2026-03-04,2026-03-04,0,,,,,,,Green
+,#UNPARSEABLE,4,Aftab Hashambhai,4,,,Green,iSupplier Integration Scenarios and Mapping,Not Applicable,2026-03-04,2026-03-04,1.0,,1.0,1d,,,,,,198.0,,2026-03-04,2026-03-04,0,,,With OTK as of 23rd march,,,,Green
+,#UNPARSEABLE,4,Aftab Hashambhai,4,,,Green,iSupplier Integration Mapping discussions,Not Applicable,2026-03-04,2026-03-04,1.0,,1.0,1d,,,,,,198.0,,2026-03-04,2026-03-04,0,,,With OTK as of 23rd march,,,,Green
+,#UNPARSEABLE,4,Aftab Hashambhai,4,,,Green,iSupplier end to end integration flow,Not Applicable,2026-03-04,2026-03-04,1.0,,1.0,1d,,,,,,198.0,,2026-03-04,2026-03-04,0,,,With OTK as of 23rd march,,,,Red
+,#UNPARSEABLE,4,Aftab Hashambhai,4,,,Green,iSupplier TDD review,Not Applicable,2026-03-05,2026-03-05,1.0,,1.0,1d,,,,,,197.0,,2026-03-05,2026-03-05,0,,,with OTK as of 23rd march,,,,Yellow
+,#UNPARSEABLE,4,Aftab Hashambhai,4,,,Green,"Working integrations demo for iSupplier &   
+Overall integration summary and next steps discussion",Not Applicable,2026-03-05,2026-03-05,1.0,,1.0,1d,,,,,,197.0,,2026-03-05,2026-03-05,0,,,"TBD ,depends on 66,67,68",Vinayaka Soratoor,,,Red
+,#UNPARSEABLE,2,Aftab Hashambhai,2,,,Green,Configuration Documentation Consolidation (offsite),Completed,2026-03-09,2026-03-20,1.0,,,10d,,,,,,186.0,,2026-02-27,2026-03-23,1d,,,,,,,Yellow
+,#UNPARSEABLE,3,Aftab Hashambhai,3,,,Green,De-briefing session with internal Zycus Stakeholders,Completed,2026-03-09,2026-03-09,1.0,,,1d,,,,,,195.0,,2026-03-09,2026-03-09,0,,,,"Titan Core Project Team, Titan Project Manager, Zycus Project Manager, Zycus Project Team",,,Green
+,#UNPARSEABLE,3,Aftab Hashambhai,3,,,Green,S2C Configuration Documentation consolidation,Completed,2026-03-18,2026-03-20,1.0,,,3d,,,,,,186.0,,2026-03-09,2026-03-13,-5d,,,,,,,Yellow
+,#UNPARSEABLE,4,Aftab Hashambhai,4,,,Green,Develop & Publish 1st draft of Implementation Approach Document (IAD) for iSupplier,Completed,2026-03-18,2026-03-18,1.0,,,1d,,,,,,188.0,,,,,,,,shivani.mishra@zycus.com,,,Green
+,#UNPARSEABLE,4,Aftab Hashambhai,4,,,Green,iSupplier IAD Review and Sign off by Titan,Completed,2026-03-19,2026-03-20,1.0,,,2d,,,,,,186.0,,,,,,,,courtney.re@Titan.com,,,Yellow
+,#UNPARSEABLE,4,Aftab Hashambhai,4,,,Green,Develop & Publish 1st draft of Implementation Approach Document (IAD) for iRequest,Completed,2026-03-18,2026-03-18,1.0,,,1d,,,,,,188.0,,2026-03-09,2026-03-09,-7d,,,,Zycus Consultant,,,Green
+,#UNPARSEABLE,4,Aftab Hashambhai,4,,,Green,iRequest IAD Review and Sign off by Titan,Completed,2026-03-19,2026-03-20,1.0,,,2d,,,,,,186.0,,2026-03-10,2026-03-11,-7d,,,,Titan Project Manager,,,Red
+,#UNPARSEABLE,4,Aftab Hashambhai,4,,,Green,Develop & Publish 1st draft of Implementation Approach Document (IAD) for iSource,Completed,2026-03-18,2026-03-18,1.0,,,1d,,,,,,188.0,,2026-03-09,2026-03-09,-7d,,,,Zycus Consultant,,,Green
+,#UNPARSEABLE,4,Aftab Hashambhai,4,,,Green,iSource IAD Review and Sign off by Titan,Completed,2026-03-19,2026-03-20,1.0,,,2d,,,,,,186.0,,2026-03-10,2026-03-12,-6d,,,,Titan Project Manager,,,Red
+,#UNPARSEABLE,4,Aftab Hashambhai,4,,,Green,Develop & Publish 1st draft of Implementation Approach Document (IAD) for iContract,Completed,2026-03-18,2026-03-18,1.0,,,1d,,,,,,188.0,,2026-03-09,2026-03-09,-7d,,,,Zycus Consultant,,,Green
+,#UNPARSEABLE,4,Aftab Hashambhai,4,,,Green,iContract IAD Review and Sign off by Titan,Completed,2026-03-19,2026-03-20,1.0,,,2d,,,,,,186.0,,2026-03-10,2026-03-13,-5d,,,,Titan Project Manager,,,Red
+,#UNPARSEABLE,4,Aftab Hashambhai,4,,,Green,Develop & Publish 1st draft of Implementation Approach Document (IAD) for iRisk,Completed,2026-03-18,2026-03-18,1.0,,,1d,,,,,,188.0,,2026-03-09,2026-03-09,-7d,,,,Zycus Consultant,,,Green
+,#UNPARSEABLE,4,Aftab Hashambhai,4,,,Green,iRisk IAD Review and Sign off by Titan,Completed,2026-03-19,2026-03-20,1.0,,,2d,,,,,,186.0,,2026-03-10,2026-03-13,-5d,,,,Titan Project Manager,,,Red
+,#UNPARSEABLE,2,Aftab Hashambhai,2,,,Green,Integration Configuration Documentation Consolidation,Completed,2026-03-18,2026-03-20,1.0,,,3d,,,,,,186.0,,2026-03-05,2026-03-10,-8d,,,,,,,Yellow
+,#UNPARSEABLE,3,Aftab Hashambhai,3,,,Green,Develop & Publish High Level Design Document TDD with Titan,Completed,2026-03-18,2026-03-19,1.0,,,2d,,,,,,187.0,,2026-03-05,2026-03-10,-7d,,,,Zycus Integration Lead,,,Green
+,#UNPARSEABLE,3,Aftab Hashambhai,3,,,Green,Titan to provide sign off on TDD indicating final requirements,Completed,2026-03-20,2026-03-20,1.0,,,1d,,,,,,186.0,,2026-03-05,2026-03-05,-11d,,,,Titan Integration Team,,,Yellow
+,#UNPARSEABLE,2,Aftab Hashambhai,2,,,Green,Functional Design Sign Off,Completed,2026-03-20,2026-03-20,1.0,,,0,,,,,,186.9999999653,,,,,,,,,,,Yellow
+,#UNPARSEABLE,1,Aftab Hashambhai,1,Build,,Red,Configuration and Build phase,In Progress,2026-01-28,2026-05-19,0.98,,,80d,,,,,,144.0,,2026-03-05,2026-03-19,-32d,,,,,,,Yellow
+,#UNPARSEABLE,2,Aftab Hashambhai,2,,,Red,Functional Confuguration on Staging System/ Setup,In Progress,2026-03-17,2026-04-20,0.93,,,25d,,,,,,165.0,,2026-03-05,2026-03-19,-22d,,,,,,,Yellow
+,#UNPARSEABLE,3,Aftab Hashambhai,3,,,Red,"Update configurations based as per IAD (Solution Design) using agreed Commodity, Division Tree & Project Stages",In Progress,2026-03-17,2026-04-20,0.93,,,25d,,,,,,165.0,,2026-03-11,2026-03-16,-12d,,,,,,,Green
+,#UNPARSEABLE,4,Aftab Hashambhai,4,,,Green,iRequest,Completed,2026-03-23,2026-04-01,1.0,,,8d,,,,,,178.0,,,,,,,,,,,
+,#UNPARSEABLE,5,Aftab Hashambhai,5,,,Green,Request type and Request Definition configuration / updates,Completed,2026-03-23,2026-03-23,1.0,,,1d,,,,,,185.0,,2026-03-11,2026-03-11,-8d,,,,sagar.chaurasiya@zycus.com,,,Green
+,#UNPARSEABLE,5,Aftab Hashambhai,5,,,Green,Review of configured Request forms and provide feedback,Completed,2026-03-24,2026-03-24,1.0,,,1d,,,,,,184.0,,2026-03-11,2026-03-11,-9d,,,,sagar.chaurasiya@zycus.com,,,Green
+,#UNPARSEABLE,5,Aftab Hashambhai,5,,,Green,Zycus to update configurations of Request forms as per received feedback,Completed,2026-03-25,2026-03-25,1.0,,,1d,,,,,,183.0,,2026-03-11,2026-03-11,-10d,,,,sagar.chaurasiya@zycus.com,,,Green
+,#UNPARSEABLE,5,Aftab Hashambhai,5,,,Green,Review of configured Request forms and provide confirmation,Completed,2026-03-26,2026-03-26,1.0,,,1d,,,,,,182.0,,2026-03-11,2026-03-11,-11d,,,,courtney.re@Titan.com,,,Yellow
+,#UNPARSEABLE,5,Aftab Hashambhai,5,,,Green,User Roles configuration,Completed,2026-03-24,2026-03-24,1.0,,,1d,,,,,,184.0,,2026-03-11,2026-03-11,-9d,,,,sagar.chaurasiya@zycus.com,,,Green
+,#UNPARSEABLE,5,Aftab Hashambhai,5,,,Green,Approval workflow configuration,Completed,2026-03-24,2026-03-24,1.0,,,1d,,,,,,184.0,,2026-03-11,2026-03-11,-9d,,,,sagar.chaurasiya@zycus.com,,,Green
+,#UNPARSEABLE,5,Aftab Hashambhai,5,,,Green,Review of User Roles and Approval Workflow and provide feedback,Completed,2026-03-25,2026-03-25,1.0,,,1d,,,,,,183.0,,2026-03-11,2026-03-11,-10d,,,,courtney.re@Titan.com,,,Green
+,#UNPARSEABLE,5,Aftab Hashambhai,5,,,Green,Zycus to update configurations for user roles and approval workflow as per received feedback,Completed,2026-03-26,2026-03-26,1.0,,,1d,,,,,,182.0,,2026-03-11,2026-03-11,-11d,,,,sagar.chaurasiya@zycus.com,,,Green
+,#UNPARSEABLE,5,Aftab Hashambhai,5,,,Green,Review of User Roles and Approval Workflow and provide confirmation,Completed,2026-03-27,2026-03-27,1.0,,,1d,,,,,,181.0,,2026-03-11,2026-03-11,-12d,,,,courtney.re@Titan.com,,,Green
+,#UNPARSEABLE,5,Aftab Hashambhai,5,,,Green,Admin settings configuration,Completed,2026-03-30,2026-03-31,1.0,,,2d,,,,,,179.0,,2026-03-13,2026-03-16,-11d,,,,Zycus Product Specialist,,,Green
+,#UNPARSEABLE,5,Aftab Hashambhai,5,,,Green,Readiness for Pre-UAT,Completed,2026-04-01,2026-04-01,1.0,,,1d,,,,,,178.0,,,,,,,,abhilasha.s@zycus.com,,,Green
+,#UNPARSEABLE,4,Aftab Hashambhai,4,,,Green,iRisk Management,Completed,2026-03-23,2026-04-03,1.0,,,10d,,,,,,176.0,,2026-03-09,2026-03-09,-19d,,,,,,,Yellow
+,#UNPARSEABLE,5,Aftab Hashambhai,5,,,Green,Conclude Functional Configuration,Completed,2026-03-23,2026-03-23,1.0,,,1d,,,,,,185.0,,2026-03-09,2026-03-09,-10d,,,,sagar.chaurasiya@zycus.com,,,Yellow
+,#UNPARSEABLE,5,Aftab Hashambhai,5,,,Green,"Configure KPI, Scorecards and Reports in iRisk pre PRODUCTION environment",Completed,2026-03-23,2026-03-23,1.0,,,1d,,,,,,185.0,,2026-03-09,2026-03-09,-10d,,,,sagar.chaurasiya@zycus.com,,,Green
+,#UNPARSEABLE,5,Aftab Hashambhai,5,,,Green,Share Supplier Bulk upload template by Zycus,Completed,2026-03-24,2026-03-24,1.0,,,1d,,,,,,184.0,,2026-03-09,2026-03-09,-11d,,,,sagar.chaurasiya@zycus.com,,,Green
+,#UNPARSEABLE,5,Aftab Hashambhai,5,,,Green,Run a mock event to verify the results,Completed,2026-03-25,2026-03-25,1.0,,,1d,,,,,,183.0,,2026-03-09,2026-03-09,-12d,,,,sagar.chaurasiya@zycus.com,,,Red
+,#UNPARSEABLE,5,Aftab Hashambhai,5,,,Green,Configuration for SCAR & Development program on STAGING,Completed,2026-03-25,2026-03-25,1.0,,,1d,,,,,,183.0,,2026-03-09,2026-03-09,-12d,,,,sagar.chaurasiya@zycus.com,,,Green
+,#UNPARSEABLE,5,Aftab Hashambhai,5,,,Green,Approval workflow configuration,Completed,2026-03-26,2026-03-26,1.0,,,1d,,,,,,182.0,,2026-03-09,2026-03-09,-13d,,,,sagar.chaurasiya@zycus.com,,,Green
+,#UNPARSEABLE,5,Aftab Hashambhai,5,,,Green,Review cycles of entire iRisk process flow with the Titan,Completed,2026-03-27,2026-03-27,1.0,,,1d,,,,,,181.0,,2026-03-09,2026-03-09,-14d,,,,sagar.chaurasiya@zycus.com,,,Red
+,#UNPARSEABLE,5,Aftab Hashambhai,5,,,Green,Titan to provide feedback,Completed,2026-03-30,2026-03-30,1.0,,,1d,,,,,,180.0,,2026-03-09,2026-03-09,-15d,,,,sagar.chaurasiya@zycus.com,,,Red
+,#UNPARSEABLE,5,Aftab Hashambhai,5,,,Green,Zycus to incorporate the feedback,Completed,2026-03-31,2026-03-31,1.0,,,1d,,,,,,179.0,,2026-03-09,2026-03-09,-16d,,,,sagar.chaurasiya@zycus.com,,,Red
+,#UNPARSEABLE,5,Aftab Hashambhai,5,,,Green,Titan to review and approve STAGING configuration,Completed,2026-04-01,2026-04-01,1.0,,,1d,,,,,,178.0,,2026-03-09,2026-03-09,-17d,,,,courtney.re@Titan.com,,,Red
+,#UNPARSEABLE,5,Aftab Hashambhai,5,,,Green,Provide final list of users with specified roles,Completed,2026-04-02,2026-04-02,1.0,,,1d,,,,,,177.0,,2026-03-09,2026-03-09,-18d,,,,Titan Core Project Team,,,Green
+,#UNPARSEABLE,5,Aftab Hashambhai,5,,,Green,Readiness for Pre-UAT,Completed,2026-04-03,2026-04-03,1.0,,,1d,,,,,,176.0,,2026-03-09,2026-03-09,-19d,,,,,,,Red
+,#UNPARSEABLE,4,Aftab Hashambhai,4,,,Green,iSource Management,Completed,2026-03-23,2026-04-03,1.0,,,10d,,,,,,176.0,,2026-03-06,2026-03-06,-20d,,,,,,,Yellow
+,#UNPARSEABLE,5,Aftab Hashambhai,5,,,Green,iSource: Conclude Functional Configuration,Completed,2026-03-23,2026-03-23,1.0,,,1d,,,,,,185.0,,2026-03-06,2026-03-06,-11d,,,,,,,Green
+,#UNPARSEABLE,5,Aftab Hashambhai,5,,,Green,Functional Configuration on STAGING set Up,Completed,2026-03-24,2026-03-24,1.0,,,1d,,,,,,184.0,,2026-03-06,2026-03-06,-12d,,,,,,,Green
+,#UNPARSEABLE,5,Aftab Hashambhai,5,,,Green,Configure Fields structures as per finalized UI template on STAGING environment,Completed,2026-03-25,2026-03-25,1.0,,,1d,,,,,,183.0,,2026-03-06,2026-03-06,-13d,,,,Zycus Product Specialist,,,Green
+,#UNPARSEABLE,5,Aftab Hashambhai,5,,,Green,Workflow configuration on STAGING,Completed,2026-03-26,2026-03-26,1.0,,,1d,,,,,,182.0,,2026-03-06,2026-03-06,-14d,,,,Zycus Product Specialist,,,Green
+,#UNPARSEABLE,5,Aftab Hashambhai,5,,,Green,Template Configuration on STAGING,Completed,2026-03-27,2026-03-27,1.0,,,1d,,,,,,181.0,,2026-03-06,2026-03-06,-15d,,,,Zycus Product Specialist,,,Green
+,#UNPARSEABLE,5,Aftab Hashambhai,5,,,Green,Review cycles of entire Sourcing process flow with the Titan,Completed,2026-03-30,2026-03-30,1.0,,,1d,,,,,,180.0,,2026-03-06,2026-03-06,-16d,,,,Zycus Product Specialist,,,Yellow
+,#UNPARSEABLE,5,Aftab Hashambhai,5,,,Green,Titan to provide feedback,Completed,2026-03-31,2026-03-31,1.0,,,1d,,,,,,179.0,,2026-03-06,2026-03-06,-17d,,,,Zycus Product Specialist,,,Red
+,#UNPARSEABLE,5,Aftab Hashambhai,5,,,Green,Zycus to incorporate feedback,Completed,2026-04-02,2026-04-03,1.0,,,2d,,,,,,176.0,,2026-03-06,2026-03-06,-18d,,,,Zycus Product Specialist,,,Red
+,#UNPARSEABLE,6,Aftab Hashambhai,6,,,Green,Titan to review and approve STAGING configuration,Completed,2026-04-02,2026-04-03,1.0,,,2d,,,,,,176.0,,2026-03-06,2026-03-06,-20d,,,,Titan Project Manager,,,Red
+,#UNPARSEABLE,7,Aftab Hashambhai,7,,,Green,Provide final list of users with specified roles,Completed,2026-04-02,2026-04-02,1.0,,,1d,,,,,,177.0,,2026-03-06,2026-03-06,-19d,,,,Titan Core Project Team,,,Green
+,#UNPARSEABLE,7,Aftab Hashambhai,7,,,Green,Pre UAT preparedness,Completed,2026-04-03,2026-04-03,1.0,,,1d,,,,,,176.0,,2026-03-06,2026-03-06,-20d,,,,Zycus Product Specialist,,,Yellow
+,#UNPARSEABLE,4,Aftab Hashambhai,4,,,Green,Contract Management with Integration and Merlin,Completed,2026-03-23,2026-04-01,1.0,,,8d,,,,,,178.0,,2026-03-10,2026-03-10,-16d,,,,,,,Yellow
+,#UNPARSEABLE,5,Aftab Hashambhai,5,,,Green,Configure Fields structures as per finalized UI template on STAGING environment,Completed,2026-03-23,2026-03-23,1.0,,,1d,,,,,,185.0,,2026-03-10,2026-03-10,-9d,,,,Zycus Product Specialist,,,Yellow
+,#UNPARSEABLE,5,Aftab Hashambhai,5,,,Green,Workflow configuration on STAGING,Completed,2026-03-24,2026-03-24,1.0,,,1d,,,,,,184.0,,2026-03-10,2026-03-10,-10d,,,,Zycus Product Specialist,,,Yellow
+,#UNPARSEABLE,5,Aftab Hashambhai,5,,,Green,Template/Folder Configuration on STAGING,Completed,2026-03-25,2026-03-25,1.0,,,1d,,,,,,183.0,,2026-03-10,2026-03-10,-11d,,,,Zycus Product Specialist,,,Yellow
+,#UNPARSEABLE,5,Aftab Hashambhai,5,,,Green,Provide access to required users on STAGING setup for Pre UAT,Completed,2026-03-26,2026-03-26,1.0,,,1d,,,,,,182.0,,2026-03-10,2026-03-10,-12d,,,,Zycus Product Specialist,,,Yellow
+,#UNPARSEABLE,5,Aftab Hashambhai,5,,,Green,Review cycles of entire Contracting process flow with the Titan and Titan to provide feedback - if any,Completed,2026-03-27,2026-03-27,1.0,,,1d,,,,,,181.0,,2026-03-10,2026-03-10,-13d,,,,"Titan Project Team, Zycus Product Specialist",,,Yellow
+,#UNPARSEABLE,5,Aftab Hashambhai,5,,,Green,Zycus to incorporate feedback - as applicable,Completed,2026-03-30,2026-03-30,1.0,,,1d,,,,,,180.0,,2026-03-10,2026-03-10,-14d,,,,Zycus Product Specialist,,,Yellow
+,#UNPARSEABLE,5,Aftab Hashambhai,5,,,Green,Titan to review updated configurations and approve STAGING configuration,Completed,2026-03-31,2026-03-31,1.0,,,1d,,,,,,179.0,,2026-03-10,2026-03-10,-15d,,,,Zycus Product Specialist,,,Yellow
+,#UNPARSEABLE,5,Aftab Hashambhai,5,,,,Contract Management with Integration and Merlin,Completed,,,1.0,,,,,,,,,,,,,,,,,,,,Yellow
+,#UNPARSEABLE,5,Aftab Hashambhai,5,,,Green,Provide final list of users with specified roles,Completed,2026-04-01,2026-04-01,1.0,,,1d,,,,,,178.0,,2026-03-10,2026-03-10,-16d,,,,Titan Core Project Team,,,Yellow
+,#UNPARSEABLE,4,Aftab Hashambhai,4,,,Red,Supplier Information Management with Integration,In Progress,2026-03-17,2026-04-20,0.82,,,25d,,,,,,165.0,,2026-03-05,2026-03-05,-32d,,,,,,,Yellow
+,#UNPARSEABLE,5,Aftab Hashambhai,5,,,Green,Common Master,Completed,2026-03-19,2026-03-20,1.0,,,2d,,,,,,186.0,,,,,,,,,,,Yellow
+,#UNPARSEABLE,5,Aftab Hashambhai,5,,,Red,iSupplier Deployment,In Progress,2026-03-17,2026-04-20,0.81,,,25d,,,,,,165.0,,2026-03-05,2026-03-05,-32d,,,,,,,Red
+,#UNPARSEABLE,6,Aftab Hashambhai,6,,,Red,Repo Sample Supplier Upload on STAGING for iSource/iContract/iRisk,In Progress,2026-03-17,2026-04-20,0.81,,,25d,,,,,,165.0,,2026-03-05,2026-03-05,-32d,,,,,,,Green
+,#UNPARSEABLE,7,Aftab Hashambhai,7,,,Green,Titan to provide sample 100 suppliers for STAGING as per REPO bulk upload template (For iContract/iSource/iRisk),Completed,2026-03-17,2026-03-17,1.0,,,1d,,,,,,189.0,,2026-03-05,2026-03-05,-8d,,,,courtney.re@Titan.com,,,Green
+,#UNPARSEABLE,7,Aftab Hashambhai,7,,,Green,Zycus to bulk upload sample supplier data on STAGING in Repo fields,Completed,2026-03-18,2026-03-18,1.0,,,1d,,,,,,188.0,,2026-03-05,2026-03-05,-9d,,,,sagar.chaurasiya@zycus.com,,,Yellow
+,#UNPARSEABLE,7,Aftab Hashambhai,7,,,Red,Design & Development on STAGING Set UP,In Progress,2026-03-19,2026-04-20,0.79,,,23d,,,,,,165.0,,2026-03-05,2026-03-05,-32d,,,,,,,Yellow
+,#UNPARSEABLE,8,Aftab Hashambhai,8,,,Green,Zycus to Configure UI based on the feedback on Metadata template,Completed,2026-03-19,2026-03-19,1.0,,,1d,,,,,,187.0,,2026-03-05,2026-03-05,-10d,,,,sagar.chaurasiya@zycus.com,,,Green
+,#UNPARSEABLE,8,Aftab Hashambhai,8,,,Green,"Supplier workflow configuration for Create, Edit, Activate & Deactivate",Completed,2026-03-20,2026-03-20,1.0,,,1d,,,,,,186.0,,,,,,,,sagar.chaurasiya@zycus.com,,,Green
+,#UNPARSEABLE,8,Aftab Hashambhai,8,,,Green,iSupplier reference Master,Completed,2026-03-19,2026-03-19,1.0,,,1d,,,,,,187.0,,,,,,,,sagar.chaurasiya@zycus.com,,,Green
+,#UNPARSEABLE,8,Aftab Hashambhai,8,,,Green,facility System Setup,Completed,2026-03-19,2026-03-19,1.0,,,1d,,,,,,187.0,,,,,,,,sagar.chaurasiya@zycus.com,,,Green
+,#UNPARSEABLE,8,Aftab Hashambhai,8,,1.0,Red,Supplier Notification template,On Hold,2026-03-26,2026-03-26,0.0,1.0,,1d,,,,,,182.0,,,,,,,,courtney.re@Titan.com,,,Red
+,#UNPARSEABLE,8,Aftab Hashambhai,8,,,Red,OTK to share D&B creds,On Hold,2026-03-19,2026-03-19,0.0,1.0,,1d,,,,,,187.0,,,,,,,,courtney.re@Titan.com,,,Red
+,#UNPARSEABLE,8,Aftab Hashambhai,8,,,Red,Enable D & B App,On Hold,2026-03-24,2026-03-24,0.0,1.0,,1d,,,,,,184.0,,,,,,,,sagar.chaurasiya@zycus.com,,,Yellow
+,#UNPARSEABLE,8,Aftab Hashambhai,8,,,Green,OTK to share API details for ISN,Completed,2026-03-19,2026-03-19,1.0,,,1d,,,,,,187.0,,,,,,,,courtney.re@Titan.com,,,Green
+,#UNPARSEABLE,8,Aftab Hashambhai,8,,,Green,Zycus to Check ISN custom configuration/ App,Completed,2026-03-27,2026-03-27,1.0,,,1d,,,,,,181.0,,,,,,,,,,,Yellow
+,#UNPARSEABLE,8,Aftab Hashambhai,8,,,Green,Setup ISN integration,Completed,2026-04-20,2026-04-20,1.0,,,1d,,,,,,165.0,,,,,,,,,,,Red
+,#UNPARSEABLE,8,Aftab Hashambhai,8,,,Green,ISupplier Demo without ISN integration,Completed,2026-03-27,2026-03-27,1.0,,,1d,,,,,,181.0,,,,,,,,,,,Red
+,#UNPARSEABLE,8,Aftab Hashambhai,8,,,Green,Feedback for iSupplier walkthrough,Completed,2026-03-30,2026-03-30,1.0,,,1d,,,,,,180.0,,,,,,,,,,,Red
+,#UNPARSEABLE,8,Aftab Hashambhai,8,,,Green,iSupplier feedback inforporation & re-demo,Completed,2026-04-02,2026-04-02,1.0,,,1d,,,,,,177.0,,,,,,,,,,,Red
+,#UNPARSEABLE,8,Aftab Hashambhai,8,,,Green,Pre UAT readiness,Completed,2026-04-03,2026-04-03,1.0,,,1d,,,,,,176.0,,,,,,,,abhilasha.s@zycus.com,,,Red
+,#UNPARSEABLE,2,Aftab Hashambhai,2,,,Green,Single Sign On,Completed,2026-01-28,2026-02-05,1.0,,,7d,,,,,,217.0,,2026-01-27,2026-02-27,16d,,,,,,,Green
+,#UNPARSEABLE,3,Aftab Hashambhai,3,,,Green,Availability of Technical Team from Titan,Completed,2026-01-28,2026-01-30,1.0,,,3d,,,,,,221.0,,2026-01-27,2026-01-27,0,,,,Titan Project Manager,,,Green
+,#UNPARSEABLE,3,Aftab Hashambhai,3,,,Green,Zycus to share Process flow of SSO integration,Completed,2026-01-28,2026-01-28,1.0,,,1d,,,,,,223.0,,2026-01-28,2026-01-28,0,,,,Zycus SSO Team,,,Green
+,#UNPARSEABLE,3,Aftab Hashambhai,3,,,Green,Exchange of configuration files,Completed,2026-01-29,2026-01-29,1.0,,,1d,,,,,,222.0,,2026-01-29,2026-01-29,0,,,,"Titan IT Team, Zycus SSO Team",,,Green
+,#UNPARSEABLE,3,Aftab Hashambhai,3,,,Green,Exchange of certificates to be used,Completed,2026-01-29,2026-01-29,1.0,,,1d,,,,,,222.0,,2026-01-29,2026-01-29,0,,,,"Titan IT Team, Zycus SSO Team",,,Green
+,#UNPARSEABLE,3,Aftab Hashambhai,3,,,Green,Approach to be used for Single Sign On [Claims/Email Address etc.],Completed,2026-01-30,2026-01-30,1.0,,,1d,,,,,,221.0,,2026-01-30,2026-01-30,0,,,,"Titan IT Team, Zycus SSO Team",,,Green
+,#UNPARSEABLE,3,Aftab Hashambhai,3,,,Green,Configuration and Review,Completed,2026-02-02,2026-02-05,1.0,,,4d,,,,,,217.0,,2026-02-02,2026-02-05,0,,,,,,,Green
+,#UNPARSEABLE,4,Aftab Hashambhai,4,,,Green,Registration of Service Provider URL for client,Completed,2026-02-02,2026-02-02,1.0,,,1d,,,,,,220.0,,2026-02-02,2026-02-02,0,,,,Zycus SSO Team,,,Green
+,#UNPARSEABLE,4,Aftab Hashambhai,4,,,Green,Registration TMS URL specific to client,Completed,2026-02-02,2026-02-02,1.0,,,1d,,,,,,220.0,,2026-02-02,2026-02-02,0,,,,Zycus SSO Team,,,Green
+,#UNPARSEABLE,4,Aftab Hashambhai,4,,,Green,Configuration of Web Server for service Provider application,Completed,2026-02-03,2026-02-03,1.0,,,1d,,,,,,219.0,,2026-02-03,2026-02-03,0,,,,Zycus SSO Team,,,Green
+,#UNPARSEABLE,4,Aftab Hashambhai,4,,,Green,Service Provider application deployment for client and sanity of the deployed setup,Completed,2026-02-03,2026-02-03,1.0,,,1d,,,,,,219.0,,2026-02-03,2026-02-03,0,,,,Zycus SSO Team,,,Green
+,#UNPARSEABLE,4,Aftab Hashambhai,4,,,Green,Configuration of Service Provider setup using below mentioned files,Completed,2026-02-03,2026-02-03,1.0,,,1d,,,,,,219.0,,2026-02-03,2026-02-03,0,,,,Zycus SSO Team,,,Green
+,#UNPARSEABLE,4,Aftab Hashambhai,4,,,Green,"Issue Resolution, if any",Completed,2026-02-04,2026-02-05,1.0,,,2d,,,,,,217.0,,2026-02-04,2026-02-05,0,,,,Zycus SSO Team,,,Green
+,#UNPARSEABLE,4,Aftab Hashambhai,4,,,Green,Sign off of SSO on STAGING Environment,Completed,2026-02-05,2026-02-05,1.0,,,1d,,,,,,217.0,,2026-02-05,2026-02-05,0,,,,Titan IT Team,,,Green
+,#UNPARSEABLE,2,Aftab Hashambhai,2,,,Green,Integration Build & SIT,Completed,2026-03-23,2026-05-19,1.0,,,42d,,,,,,144.0,,,,,,,,,,,Yellow
+,#UNPARSEABLE,3,Aftab Hashambhai,3,,,Green,Systems Integration on STAGING Set UP,Completed,2026-03-23,2026-04-14,1.0,,,17d,,,,,,169.0,,2026-02-24,2026-04-17,3d,,,,,,,Yellow
+,#UNPARSEABLE,4,Aftab Hashambhai,4,,,Green,"Integration set up, Development at Zycus",Completed,2026-03-23,2026-03-30,1.0,,,6d,,,,,,180.0,,2026-03-06,2026-03-13,-11d,,,,Zycus Integration Team,,,Green
+,#UNPARSEABLE,4,Aftab Hashambhai,4,,,Green,"Integration set up, Development at Titan",Completed,2026-03-23,2026-04-08,1.0,,,13d,,,,,,173.0,,2026-03-09,2026-03-27,-8d,,,,Titan Integration Team,,,Yellow
+,#UNPARSEABLE,4,Aftab Hashambhai,4,,,Green,Integration Unit Testing and Feedback Incorporation,Completed,2026-04-09,2026-04-14,1.0,,,4d,,,,,,169.0,,2026-04-13,2026-04-16,2d,,,,"Titan Integration Team, Zycus Integration Team",,,Red
+,#UNPARSEABLE,3,Aftab Hashambhai,3,,,Green,Systems Integration Testing,Completed,2026-04-15,2026-05-19,1.0,,,25d,,,,,,144.0,,2026-03-30,2026-04-17,-11d,,,,,,,Red
+,#UNPARSEABLE,4,Aftab Hashambhai,4,,,Green,SIT on STAGING Set Up,Completed,2026-04-15,2026-05-19,1.0,,,25d,,,,,,144.0,,2026-03-30,2026-04-17,-11d,,,,"Titan Integration Team, Zycus Integration Specialist",,,Red
+,#UNPARSEABLE,5,Aftab Hashambhai,5,,,Green,Sign off on SIT,Completed,2026-04-15,2026-05-19,1.0,,,25d,,,,,,144.0,,2026-03-30,2026-04-17,-11d,,,,Titan IT Project Manager,,,Red
+,#UNPARSEABLE,2,Aftab Hashambhai,2,Pre UAT,,Green,Pre UAT,Completed,2026-04-02,2026-05-07,1.0,,,26d,,,,,,152.0,,2026-03-09,2026-04-17,-14d,,,,,,,Yellow
+,#UNPARSEABLE,3,Aftab Hashambhai,3,,,Green,iRequest -Prepare for UAT,Completed,2026-04-02,2026-04-13,1.0,,,7.5d,,,,,,170.5,,2026-03-27,2026-04-17,4d,,,,,,,Yellow
+,#UNPARSEABLE,4,Aftab Hashambhai,4,,,Green,Pre-UAT - Provide End to end walkthrough of configured iRequest to Titan,Completed,2026-04-02,2026-04-02,1.0,,,1d,,,,,,177.0,,2026-03-27,2026-04-17,11d,,,,,,,Green
+,#UNPARSEABLE,4,Aftab Hashambhai,4,,,Green,Provide feedback - if any for iRequest configuration,Completed,2026-04-03,2026-04-03,1.0,,,1d,,,,,,176.0,,2026-03-27,2026-04-17,10d,,,,,,,Red
+,#UNPARSEABLE,4,Aftab Hashambhai,4,,,Green,Zycus to incorporate feedback - as applicable and share final version of Implementation Approach Document [IAD],Completed,2026-04-06,2026-04-06,1.0,,,1d,,,,,,175.0,,2026-03-27,2026-04-17,9d,,,,,,,Red
+,#UNPARSEABLE,4,Aftab Hashambhai,4,,,Green,Sign off on Pre-UAT and final version of IAD,Completed,2026-04-07,2026-04-07,1.0,,,1d,,,,,,174.0,,2026-03-27,2026-04-17,8d,,,,,,,Red
+,#UNPARSEABLE,4,Aftab Hashambhai,4,,,Green,Logistics readiness if needed,Completed,2026-04-07,2026-04-07,1.0,,,0,,,,,,174.9999999653,,2026-03-27,2026-04-17,8d,,,,,,,Red
+,#UNPARSEABLE,4,Aftab Hashambhai,4,,,Green,Create users on STAGING set for UAT group,Completed,2026-04-08,2026-04-08,1.0,,,1d,,,,,,173.0,,2026-03-27,2026-04-17,7d,,,,,,,Red
+,#UNPARSEABLE,4,Aftab Hashambhai,4,,,Green,Quality Reviews,Completed,2026-04-09,2026-04-09,1.0,,,0.5d,,,,,,172.5,,2026-03-27,2026-04-17,6.5d,,,,,,,Red
+,#UNPARSEABLE,4,Aftab Hashambhai,4,,,Green,Schedule for quality check,Completed,2026-04-09,2026-04-09,1.0,,,0.5d,,,,,,172.5,,2026-03-27,2026-04-17,6d,,,,,,,Red
+,#UNPARSEABLE,4,Aftab Hashambhai,4,,,Green,"Perform quality checks, PSRs as per quality checklist and submit to QC team",Completed,2026-04-10,2026-04-10,1.0,,,0.5d,,,,,,171.5,,2026-03-27,2026-04-17,5.5d,,,,,,,Red
+,#UNPARSEABLE,4,Aftab Hashambhai,4,,,Green,Quality Check by Zycus QC team,Completed,2026-04-10,2026-04-10,1.0,,,0.5d,,,,,,171.5,,2026-03-27,2026-04-17,5d,,,,,,,Red
+,#UNPARSEABLE,4,Aftab Hashambhai,4,,,Green,Release of iRequest STAGING to Titan key users (UAT Release),Completed,2026-04-13,2026-04-13,1.0,,,0.5d,,,,,,170.5,,2026-03-27,2026-04-17,4.5d,,,,,,,Red
+,#UNPARSEABLE,4,Aftab Hashambhai,4,,,Green,Create users and assign roles on STAGING set for UAT group,Completed,2026-04-13,2026-04-13,1.0,,,0.5d,,,,,,170.5,,2026-03-27,2026-04-17,4d,,,,,,,Red
+,#UNPARSEABLE,3,Aftab Hashambhai,3,,,Green,iRisk -Prepare for UAT,Completed,2026-04-06,2026-04-09,1.0,,,4d,,,,,,172.0,,2026-03-10,2026-03-10,-22d,,,,Zycus Product Specialist,,,Yellow
+,#UNPARSEABLE,4,Aftab Hashambhai,4,,,Green,Pre-UAT,Completed,2026-04-06,2026-04-09,1.0,,,4d,,,,,,172.0,,2026-03-10,2026-03-10,-22d,,,,,,,Yellow
+,#UNPARSEABLE,5,Aftab Hashambhai,5,,,Green,Pre-UAT - Provide End to end walkthrough of configured iRisk to Titan,Completed,2026-04-06,2026-04-06,1.0,,,1d,,,,,,175.0,,2026-03-10,2026-03-10,-19d,,,,"Titan Core Project Team, Zycus Consultant, Zycus Product Specialist",,,Green
+,#UNPARSEABLE,5,Aftab Hashambhai,5,,,Green,Provide feedback - if any for iRisk configuration,Completed,2026-04-07,2026-04-07,1.0,,,1d,,,,,,174.0,,2026-03-10,2026-03-10,-20d,,,,Titan Project Team,,,Red
+,#UNPARSEABLE,5,Aftab Hashambhai,5,,,Green,Zycus to incorporate feedback - as applicable and share final version of Implementation Approach Document [IAD],Completed,2026-04-08,2026-04-08,1.0,,,1d,,,,,,173.0,,2026-03-10,2026-03-10,-21d,,,,Zycus Project Team,,,Red
+,#UNPARSEABLE,5,Aftab Hashambhai,5,,,Green,Sign off on Pre-UAT and final version of IAD,Completed,2026-04-09,2026-04-09,1.0,,,1d,,,,,,172.0,,2026-03-10,2026-03-10,-22d,,,,Titan Project Manager,,,Red
+,#UNPARSEABLE,3,Aftab Hashambhai,3,,,Green,iSource- Prepare for UAT,Completed,2026-04-06,2026-04-09,1.0,,,4d,,,,,,172.0,,2026-03-09,2026-03-11,-21d,,,,,,,Yellow
+,#UNPARSEABLE,4,Aftab Hashambhai,4,,,Green,Pre-UAT - Provide End to end walkthrough of configured iSource to Titan,Completed,2026-04-06,2026-04-06,1.0,,,1d,,,,,,175.0,,2026-03-09,2026-03-09,-20d,,,,"Zycus Consultant, Zycus Product Specialist",,,Green
+,#UNPARSEABLE,4,Aftab Hashambhai,4,,,Green,Provide feedback - if any for iSource configuration,Completed,2026-04-07,2026-04-07,1.0,,,1d,,,,,,174.0,,2026-03-09,2026-03-09,-21d,,,,Titan Project Team,,,Red
+,#UNPARSEABLE,4,Aftab Hashambhai,4,,,Green,Incorporate issue resolution if any and share final version of IAD,Completed,2026-04-08,2026-04-08,1.0,,,1d,,,,,,173.0,,2026-03-10,2026-03-10,-21d,,,,Zycus Project Team,,,Red
+,#UNPARSEABLE,4,Aftab Hashambhai,4,,,Green,Sign off on Pre-UAT and final version of IAD,Completed,2026-04-09,2026-04-09,1.0,,,1d,,,,,,172.0,,2026-03-11,2026-03-11,-21d,,,,Titan Project Manager,,,Red
+,#UNPARSEABLE,3,Aftab Hashambhai,3,,,Green,Pre UAT iContract,Completed,2026-04-02,2026-04-07,1.0,,,4d,,,,,,174.0,,2026-03-11,2026-04-17,8d,,,,Zycus Product Specialist,,,Red
+,#UNPARSEABLE,4,Aftab Hashambhai,4,,,Green,Pre-UAT - Provide End to end walkthrough of configured iContract to Titan,Completed,2026-04-02,2026-04-02,1.0,,,1d,,,,,,177.0,,2026-03-11,2026-03-11,-16d,,,,"Titan Core Project Team, Zycus Consultant, Zycus Product Specialist",,,Red
+,#UNPARSEABLE,4,Aftab Hashambhai,4,,,Green,Provide feedback - if any for iContract configuration,Completed,2026-04-03,2026-04-03,1.0,,,1d,,,,,,176.0,,2026-03-11,2026-03-11,-17d,,,,Titan Project Team,,,Red
+,#UNPARSEABLE,4,Aftab Hashambhai,4,,,Green,Zycus to incorporate feedback - as applicable and share final version of Implementation Approach Document [IAD],Completed,2026-04-06,2026-04-06,1.0,,,1d,,,,,,175.0,,2026-03-11,2026-03-11,-18d,,,,"Zycus Consultant, Zycus Product Specialist",,,Red
+,#UNPARSEABLE,4,Aftab Hashambhai,4,,,Green,Sign off on Pre-UAT and final version of IAD sign off,Completed,2026-04-07,2026-04-07,1.0,,,1d,,,,,,174.0,,2026-03-11,2026-04-17,8d,,,,Titan Project Manager,,,Red
+,#UNPARSEABLE,3,Aftab Hashambhai,3,,1.0,Green,iSupplier Pre UAT,Completed,2026-04-06,2026-05-07,1.0,,,24d,,,,,,152.0,,,,,,,,,,,Yellow
+,#UNPARSEABLE,4,Aftab Hashambhai,4,,,Green,Pre-UAT - Provide End to end walkthrough of configured iSupplier- Functional flow only,Completed,2026-04-06,2026-04-07,1.0,,,2d,,,,,,174.0,,,,,,,,,,,Green
+,#UNPARSEABLE,4,Aftab Hashambhai,4,,,Green,End to End flow for iSupplier with Integration,Completed,2026-05-05,2026-05-06,1.0,,,2d,,,,,,153.0,,,,,,,,,,,Red
+,#UNPARSEABLE,4,Aftab Hashambhai,4,,,Green,Provide feedback - if any for iSupplier configuration,Completed,2026-04-08,2026-04-08,1.0,,,1d,,,,,,173.0,,,,,,,,,,,Yellow
+,#UNPARSEABLE,4,Aftab Hashambhai,4,,,Green,Zycus to incorporate feedback - as applicable and share final version of Implementation Approach Document [IAD],Completed,2026-04-09,2026-04-09,1.0,,,1d,,,,,,172.0,,,,,,,,,,,Yellow
+,#UNPARSEABLE,4,Aftab Hashambhai,4,,,Green,Sign off on Pre-UAT and final version of IAD,Completed,2026-05-07,2026-05-07,1.0,,,1d,,,,,,152.0,,,,,,,,,,,Yellow
+,#UNPARSEABLE,1,Aftab Hashambhai,1,UAT,,Green,UAT,Completed,2026-05-04,2026-05-28,1.0,,,19d,,,,,,137.0,,2026-04-27,2026-05-08,-10d,,,,,,,Yellow
+,#UNPARSEABLE,2,Aftab Hashambhai,2,,,Green,UAT-iSource,Completed,2026-05-04,2026-05-12,1.0,,,7d,,,,,,149.0,,2026-04-27,2026-05-08,-2d,,,,,,,Red
+,#UNPARSEABLE,3,Aftab Hashambhai,3,,,Green,UAT of iSource on STAGING environment,Completed,2026-05-04,2026-05-05,1.0,,,2d,,,,,,154.0,,2026-04-27,2026-05-08,3d,,,,"Titan Core Project Team, Zycus Consultant, Zycus Product Specialist",,,Green
+,#UNPARSEABLE,3,Aftab Hashambhai,3,,,Green,Defect Analysis & UAT Feedback incorporation and share Test Closure Memo,Completed,2026-05-05,2026-05-08,1.0,,,4d,,,,,,151.0,,2026-04-27,2026-05-08,0,,,,Zycus Project Team,,,Green
+,#UNPARSEABLE,3,Aftab Hashambhai,3,,,Green,Titan to provide sign off on Test Closure Memo,Completed,2026-05-11,2026-05-12,1.0,,,2d,,,,,,149.0,,2026-04-27,2026-05-08,-2d,,,,"Titan Core Project Team, Titan Project Manager",,,Green
+,#UNPARSEABLE,2,Aftab Hashambhai,2,,,Green,UAT- iRequest,Completed,2026-05-04,2026-05-12,1.0,,,7d,,,,,,149.0,,2026-04-27,2026-05-08,-2d,,,,,,,Red
+,#UNPARSEABLE,3,Aftab Hashambhai,3,,,Green,UAT of iRequest on STAGING environment,Completed,2026-05-04,2026-05-05,1.0,,,2d,,,,,,154.0,,2026-04-27,2026-05-08,3d,,,,,,,Green
+,#UNPARSEABLE,3,Aftab Hashambhai,3,,,Green,Defect Analysis & UAT Feedback incorporation and share Test Closure Memo,Completed,2026-05-05,2026-05-08,1.0,,,4d,,,,,,151.0,,2026-04-27,2026-05-08,0,,,,,,,Green
+,#UNPARSEABLE,3,Aftab Hashambhai,3,,,Green,Titan to provide sign off on Test Closure Memo,Completed,2026-05-11,2026-05-12,1.0,,,2d,,,,,,149.0,,2026-04-27,2026-05-08,-2d,,,,,,,Green
+,#UNPARSEABLE,2,Aftab Hashambhai,2,,,Green,UAT -iContract,Completed,2026-05-06,2026-05-14,1.0,,,7d,,,,,,147.0,,,,,,,,,,,Red
+,#UNPARSEABLE,3,Aftab Hashambhai,3,,,Green,UAT of iContract on STAGING environment,Completed,2026-05-06,2026-05-07,1.0,,,2d,,,,,,152.0,,,,,,,,,,,Yellow
+,#UNPARSEABLE,3,Aftab Hashambhai,3,,,Green,Defect Analysis & UAT Feedback incorporation and share Test Closure Memo,Completed,2026-05-07,2026-05-12,1.0,,,4d,,,,,,149.0,,,,,,,,,,,Yellow
+,#UNPARSEABLE,3,Aftab Hashambhai,3,,,Green,Titan to provide sign off on Test Closure Memo,Completed,2026-05-13,2026-05-14,1.0,,,2d,,,,,,147.0,,,,,,,,,,,Red
+,#UNPARSEABLE,2,Aftab Hashambhai,2,,,Green,UAT -iRisk,Completed,2026-05-06,2026-05-14,1.0,,,7d,,,,,,147.0,,2026-04-27,2026-05-08,-4d,,,,,,,Red
+,#UNPARSEABLE,3,Aftab Hashambhai,3,,,Green,UAT of iRisk on STAGING environment,Completed,2026-05-06,2026-05-07,1.0,,,2d,,,,,,152.0,,2026-04-27,2026-05-08,1d,,,,,,,Yellow
+,#UNPARSEABLE,3,Aftab Hashambhai,3,,,Green,Defect Analysis & UAT Feedback incorporation and share Test Closure Memo,Completed,2026-05-07,2026-05-12,1.0,,,4d,,,,,,147.0000000347,,2026-04-27,2026-05-08,-2d,,,,,,,Yellow
+,#UNPARSEABLE,3,Aftab Hashambhai,3,,,Green,Titan to provide sign off on Test Closure Memo,Completed,2026-05-13,2026-05-14,1.0,,,2d,226,,,,,147.0,,2026-04-27,2026-05-08,-4d,,,,,,,Red
+,#UNPARSEABLE,2,Aftab Hashambhai,2,,,Green,UAT -iSupplier,Completed,2026-05-11,2026-05-28,1.0,,,14d,,,,,,137.0,,2026-04-27,2026-05-08,-10d,,,,,,,Yellow
+,#UNPARSEABLE,3,Aftab Hashambhai,3,,,Green,UAT of iSupplier on STAGING environment,Completed,2026-05-11,2026-05-18,1.0,,,6d,,,,,,137.0000000347,,2026-04-27,2026-05-08,-6d,,,,,,,Yellow
+,#UNPARSEABLE,3,Aftab Hashambhai,3,,,Green,Defect Analysis & UAT Feedback incorporation and share Test Closure Memo,Completed,2026-05-19,2026-05-28,1.0,,,8d,229,,,,,137.0,,2026-04-27,2026-05-08,-8d,,,,,,,Yellow
+,#UNPARSEABLE,3,Aftab Hashambhai,3,,,Green,Titan to provide sign off on Test Closure Memo,Completed,2026-05-21,2026-05-22,1.0,,,2d,,,,,,141.0,,2026-04-27,2026-05-08,-10d,,,,,,,Yellow
+,#UNPARSEABLE,2,Aftab Hashambhai,2,,,Green,UAT Sign Off,Completed,2026-05-22,2026-05-22,1.0,,,0,,,,,,141.9999999653,,,,,,,,,,,Yellow
+,#UNPARSEABLE,1,Aftab Hashambhai,1,TTT,,Green,Train The Trainer,Completed,2026-05-14,2026-06-19,1.0,,,27d,,,,,,121.0,,2026-05-11,2026-05-22,-16d,,,,,,,Yellow
+,#UNPARSEABLE,2,Aftab Hashambhai,2,,,Green,Training Preparation,Completed,2026-05-14,2026-05-27,1.0,,,10d,,,,,,138.0,,2026-05-11,2026-05-14,-9d,,,,,,,Yellow
+,#UNPARSEABLE,3,Aftab Hashambhai,3,,,Green,Training Approach and Schedule finalization,Completed,2026-05-14,2026-05-15,1.0,,,2d,,,,,,146.0,,2026-05-11,2026-05-12,-10d,,,,"Titan Project Manager, Zycus Project Manager, Zycus University",,,Yellow
+,#UNPARSEABLE,3,Aftab Hashambhai,3,,,Green,Training Agenda Finalization,Completed,2026-05-15,2026-05-15,1.0,,,1d,,,,,,146.0,,2026-05-11,2026-05-12,-11d,,,,"Titan Project Manager, Zycus University",,,Yellow
+,#UNPARSEABLE,3,Aftab Hashambhai,3,,,Green,Logistics arrangement for Training,Not Applicable,2026-05-27,2026-05-27,1.0,,1.0,1d,,,,,,138.0,,2026-05-13,2026-05-14,-9d,,,,Zycus Project Manager,,,Yellow
+,#UNPARSEABLE,2,Aftab Hashambhai,2,,,Green,Train The Trainer Sessions,Completed,2026-05-19,2026-06-05,1.0,,,14d,,,,,,131.0,,,,,,,,,,,Yellow
+,#UNPARSEABLE,2,Aftab Hashambhai,2,,,Green,End User trainings,Completed,2026-06-15,2026-06-19,1.0,,,5d,,,,,,121.0,,,,,,,,,,,Yellow
+,#UNPARSEABLE,1,Aftab Hashambhai,1,Migration,,Red,Production & Cutover,In Progress,2026-05-04,2026-06-12,0.97,,,30d,,,,,,126.0,,2026-02-06,2026-07-02,15d,,,,,,,Yellow
+,#UNPARSEABLE,2,Aftab Hashambhai,2,,,Green,Production System Standard Setup,Completed,2026-05-04,2026-05-06,1.0,,,3d,,,,,,131.0000000347,,2026-05-11,2026-05-22,12d,,,,,,,Red
+,#UNPARSEABLE,2,Aftab Hashambhai,2,,,Green,SSO and Integration Setup,Completed,2026-05-07,2026-06-05,1.0,,,22d,241,,,,,131.0,,2026-05-11,2026-05-22,-2d,,,,,,,Yellow
+,#UNPARSEABLE,2,Aftab Hashambhai,2,,,Green,User list to be provide with access mapping by customer,Completed,2026-05-07,2026-05-07,1.0,,,1d,241,,,,,152.0,,,,,,,,,,,
+,#UNPARSEABLE,2,Aftab Hashambhai,2,,,Red,Supplier data to be provided by Customer,In Progress,2026-05-04,2026-06-05,0.8,,,25d,,,sagar.chaurasiya@zycus.com,,,131.0,,,,,,,,,,,
+,#UNPARSEABLE,2,Aftab Hashambhai,2,,,Green,iContract Legacy data to be provided by customer,Not Applicable,2026-05-18,2026-06-05,1.0,,1.0,15d,,,,,,131.0,,,,,,,,,,,
+,#UNPARSEABLE,2,Aftab Hashambhai,2,,,Green,User Setup,Completed,2026-05-08,2026-06-05,1.0,,,21d,,,sagar.chaurasiya@zycus.com,,,131.0,,2026-05-11,2026-05-22,13d,,,,,,,Red
+,#UNPARSEABLE,2,Aftab Hashambhai,2,,,Green,User Upload,Completed,2026-05-12,2026-06-05,1.0,,,19d,,,sagar.chaurasiya@zycus.com,,,131.0,,,,,,,,,,,Yellow
+,#UNPARSEABLE,2,Aftab Hashambhai,2,,,Green,iRequest,Completed,2026-05-18,2026-06-05,1.0,,,15d,,,,,,131.0,,,,,,,,,,,Yellow
+,#UNPARSEABLE,3,Aftab Hashambhai,3,,,Green,Production Deployment & Readiness-Migrate Solution from Staging to Prodcution,Completed,2026-05-18,2026-06-05,1.0,,,15d,,,sagar.chaurasiya@zycus.com,,,131.0,,,,,,,,,,,Red
+,#UNPARSEABLE,2,Aftab Hashambhai,2,,,Green,iSource,Completed,2026-05-18,2026-06-05,1.0,,,15d,,,,,,131.0,,,,,,,,,,,Yellow
+,#UNPARSEABLE,3,Aftab Hashambhai,3,,,Green,Production Deployment & Readiness-Migrate Solution from Staging to Prodcution,Completed,2026-05-18,2026-06-05,1.0,,,15d,,,,,,131.0,,2026-05-11,2026-05-22,6d,,,,,,,Red
+,#UNPARSEABLE,2,Aftab Hashambhai,2,,,Green,iContract,Completed,2026-05-18,2026-06-05,1.0,,,15d,,,,,,131.0,,,,,,,,,,,Yellow
+,#UNPARSEABLE,3,Aftab Hashambhai,3,,,Green,Production Deployment & Readiness-Migrate Solution from Staging to Prodcution,Completed,2026-05-18,2026-06-05,1.0,,,15d,,,,,,131.0,,,,,,,,,,,Yellow
+,#UNPARSEABLE,2,Aftab Hashambhai,2,,,Green,iRisk,Completed,2026-05-18,2026-06-05,1.0,,,15d,,,,,,131.0,,,,,,,,,,,Yellow
+,#UNPARSEABLE,3,Aftab Hashambhai,3,,,Green,Production Deployment & Readiness-Migrate Solution from Staging to Prodcution,Completed,2026-05-18,2026-06-05,1.0,,,15d,,,,,,131.0,,,,,,,,,,,Yellow
+,#UNPARSEABLE,2,Aftab Hashambhai,2,,,Green,iSupplier,Completed,2026-05-18,2026-06-05,1.0,,,15d,,,,,,131.0,,,,,,,,,,,Yellow
+,#UNPARSEABLE,3,Aftab Hashambhai,3,,,Green,Production Deployment & Readiness-Migrate Solution from Staging to Prodcution,Completed,2026-05-18,2026-06-05,1.0,,,15d,,,,,,131.0,,,,,,,,,,,Yellow
+,#UNPARSEABLE,2,Aftab Hashambhai,2,,,Green,Data Load-Historical and bulk upload - iSupplier,Completed,2026-06-08,2026-06-09,1.0,,,2d,,,,,,129.0,,,,,,,,,,,Yellow
+,#UNPARSEABLE,2,Aftab Hashambhai,2,,,Red,Data Load-Historical and bulk upload - iContract,In Progress,2026-06-08,2026-06-09,0.9,,,2d,,,,,,129.0,,2026-05-11,2026-05-22,-12d,,,,,,,Yellow
+,#UNPARSEABLE,2,Aftab Hashambhai,2,,,Green,Integration Setup from OTK side,Completed,2026-05-25,2026-06-09,1.0,,,12d,,,,,,129.0,,,,,,,,,,,Yellow
+,#UNPARSEABLE,2,Aftab Hashambhai,2,,,Green,Sanity Check of Production system,Completed,2026-06-09,2026-06-11,1.0,,,3d,,,,,,127.0,,,,,,,,,,,Yellow
+,#UNPARSEABLE,2,Aftab Hashambhai,2,,,Green,Go/No-go Check Point ( Meeting with Titan),Completed,2026-06-12,2026-06-12,1.0,,,1d,,,,,,126.0,,2026-05-28,2026-05-28,-7d,,,,"Titan Core Project Team, Titan Project Manager, Zycus Project Manager",,,Yellow
+,#UNPARSEABLE,1,Aftab Hashambhai,1,Go Live,,Green,Go-Live & Support intro,Completed,2026-06-16,2026-06-16,1.0,,,1d,,,,,,122.0000000694,,2026-05-29,2026-05-29,-8d,,,,,,,Yellow
+,#UNPARSEABLE,2,Aftab Hashambhai,2,,,Green,Go live,Completed,2026-06-16,2026-06-16,1.0,,,1d,,,,,,104.0000000347,,2026-05-29,2026-05-29,-8d,,,,,,,Yellow
+,#UNPARSEABLE,3,Aftab Hashambhai,3,,,Green,Release iRequest to all users,Completed,2026-06-16,2026-06-16,1.0,,,1d,,,,,,124.0,,2026-05-29,2026-05-29,-8d,,,,,,,Yellow
+,#UNPARSEABLE,3,Aftab Hashambhai,3,,,Green,Release iContract to all users (Soft Launch or Full Launch based on Titan decision) Go-live Sign-off,Completed,2026-06-16,2026-06-16,1.0,,,1d,,,,,,124.0,,2026-05-29,2026-05-29,-8d,,,,,,,Yellow
+,#UNPARSEABLE,3,Aftab Hashambhai,3,,,Green,Release iRisk to all users (Pilot Launch or Full Launch based on Titan decision),Completed,2026-06-16,2026-06-16,1.0,,,1d,,,,,,124.0,,2026-05-29,2026-05-29,-8d,,,,,,,Yellow
+,#UNPARSEABLE,3,Aftab Hashambhai,3,,,Green,Release iSupplier to all users (Pilot Launch or Full Launch based on Titan decision) Go-live Sign-off,Completed,2026-06-16,2026-06-16,1.0,,,1d,,,,,,124.0,,2026-05-29,2026-05-29,-8d,,,,,,,Yellow
+,#UNPARSEABLE,3,Aftab Hashambhai,3,,,Green,Release iSource to all users (Pilot Launch or Full Launch based on Titan decision) Go-live Sign-off,Completed,2026-06-16,2026-06-16,1.0,,,1d,,,,,,124.0,,2026-05-29,2026-05-29,-8d,,,,Zycus Product Specialist,,,Yellow
+,#UNPARSEABLE,1,Aftab Hashambhai,1,Hypercare,,Red,Hyper Care(Measure and Adoption) Solution,In Progress,2026-06-17,2026-07-14,0.06,,,20d,,,,,,104.0,,2026-05-29,2026-05-29,-30d,,,,,,,Yellow
+,#UNPARSEABLE,2,Aftab Hashambhai,2,,,Red,Onboard and Introduce TAM team to Customer,In Progress,2026-06-18,2026-06-18,0.9,,,1d,263FS +1d,,Aftab Hashambhai,,,121.0000000347,,2026-05-29,2026-05-29,-10d,,,,,,,Yellow
+,#UNPARSEABLE,2,Aftab Hashambhai,2,,,Red,Walkthrough of post hypercare support process by TAM team,In Progress,2026-06-19,2026-06-19,0.5,,,1d,271,,Aftab Hashambhai,,,121.0,,2026-05-29,2026-05-29,-11d,,,,,,,Yellow
+,#UNPARSEABLE,2,Aftab Hashambhai,2,,,Red,Hypercare Support,Not Started,2026-06-17,2026-07-14,,,,20d,264,,,,,104.0,,,,,,,,,,,Yellow
+,#UNPARSEABLE,0,Aftab Hashambhai,0,,,Red,Phase 2 - P2P,In Progress,2026-04-22,2026-12-07,0.21,,,164d,,,,,,0.0,,2026-04-15,2026-08-10,-81d,,,,,,,Yellow
+,#UNPARSEABLE,1,Aftab Hashambhai,1,,,Green,Project Initiation & Data Gathering,Completed,2026-04-22,2026-06-02,1.0,,,30d,,,,,,134.0,,2026-04-15,2026-04-30,-15d,,,,,,,Yellow
+,#UNPARSEABLE,2,Aftab Hashambhai,2,,,Green,Zycus BootCamp,Completed,2026-04-22,2026-04-23,1.0,,,2d,,,,,,162.0,,,,,,,,,,,Green
+,#UNPARSEABLE,3,Aftab Hashambhai,3,,,Green,eProc,Completed,2026-04-22,2026-04-22,1.0,,,1d,,,,,,163.0,,,,,,,,,,,Green
+,#UNPARSEABLE,3,Aftab Hashambhai,3,,,Green,eInvoice,Completed,2026-04-23,2026-04-23,1.0,,,1d,,,,,,162.0,,,,,,,,,,,Green
+,#UNPARSEABLE,2,Aftab Hashambhai,2,,,Green,Logistics Activities,Completed,2026-05-18,2026-06-02,1.0,,,12d,,,,,,134.0,,2026-04-15,2026-04-20,-9d,,,,,,,Yellow
+,#UNPARSEABLE,3,Aftab Hashambhai,3,,,Green,Discuss & Finalize Logistics activity dates - as required,Completed,2026-05-18,2026-05-22,1.0,,,5d,,,,,,141.0,,2026-04-15,2026-04-15,-8d,,,,"Titan Core Project Team, Titan Project Manager, Zycus Project Manager",,,Yellow
+,#UNPARSEABLE,3,Aftab Hashambhai,3,,,Green,Share Logistics Plan - if any with Titan,Completed,2026-05-25,2026-05-29,1.0,,,5d,,,,,,136.0,,2026-04-16,2026-04-16,-9d,,,,"Titan Core Project Team, Titan Project Manager, Zycus Project Manager",,,Yellow
+,#UNPARSEABLE,3,Aftab Hashambhai,3,,,Green,Review & Approve Logistics Plan,Completed,2026-06-01,2026-06-01,1.0,,,1d,,,,,,135.0,,2026-04-17,2026-04-17,-9d,,,,Titan Project Manager,,,Yellow
+,#UNPARSEABLE,3,Aftab Hashambhai,3,,,Green,Arrange Logistics required for workshop,Completed,2026-06-02,2026-06-02,1.0,,,1d,,,,,,134.0,,2026-04-20,2026-04-20,-9d,,,,"Zycus Project Manager, Zycus Project Team",,,Yellow
+,#UNPARSEABLE,2,Aftab Hashambhai,2,,,Green,Data Gathering & STAGING Set Up,Completed,2026-04-28,2026-05-22,1.0,,,19d,,,,,,141.0,,2026-04-15,2026-04-30,-15d,,,,,,,Yellow
+,#UNPARSEABLE,3,Aftab Hashambhai,3,,,Green,Discussion on Pre-Requisites as per agenda shared,Completed,2026-04-28,2026-05-22,1.0,,,19d,,,,,,141.0,,2026-04-15,2026-04-30,-15d,,,,,,,Yellow
+,#UNPARSEABLE,4,Aftab Hashambhai,4,,,Green,Sessions as per Pre-Requisite agenda,Completed,2026-04-28,2026-04-30,1.0,,,3d,,,,,,157.0,,2026-04-15,2026-04-28,-2d,,,,"Titan Core Project Team, Zycus Project Team",,,Green
+,#UNPARSEABLE,4,Aftab Hashambhai,4,,,Green,Pre workshop discussion for Integration,Completed,2026-05-18,2026-05-22,1.0,,,5d,,,,,,141.0,,2026-04-29,2026-04-30,-11d,,,,,,,Yellow
+,#UNPARSEABLE,4,Aftab Hashambhai,4,,,Green,Titan As-Is Discussion,Completed,2026-05-11,2026-05-14,1.0,,,4d,,,,,,147.0,,,,,,,,,,,Yellow
+,#UNPARSEABLE,4,Aftab Hashambhai,4,,,Green,Data gathering,Completed,2026-05-01,2026-05-22,1.0,,,16d,,,,,,141.0,,,,,,,,,,,Yellow
+,#UNPARSEABLE,5,Aftab Hashambhai,5,,1.0,Green,Share Pre-Requisite documents and information as per the templates shared by Zycus with Samples,Completed,2026-05-01,2026-05-22,1.0,,,16d,,,,,,141.0,,2026-04-15,2026-04-16,-25d,,,,"Titan Core Project Team, Titan Project Manager",,,Yellow
+,#UNPARSEABLE,1,Aftab Hashambhai,1,,,Red,Configuration Documentation workshop,In Progress,2026-06-22,2026-07-13,0.25,,,16d,,,,,,105.0,,2026-04-21,2026-05-26,-43d,,,,,,,Yellow
+,#UNPARSEABLE,2,Aftab Hashambhai,2,,1.0,Green,"P2P, iSupplier Configuration Documentation Workshop",Completed,2026-06-22,2026-06-26,1.0,,,5d,,,,,,88.0000002083,,2026-04-21,2026-05-04,-22d,,,,"Titan Core Project Team, Titan Project Manager, Zycus Merlin Product Team, Zycus Project Manager, Zycus Project Team",,,Yellow
+,#UNPARSEABLE,2,Aftab Hashambhai,2,,,Red,Master data to be provided by OTK team,Not Started,2026-06-26,2026-07-02,,,,5d,,,,,High,88.0000002083,,,,,,,,,,,
+,#UNPARSEABLE,2,Aftab Hashambhai,2,,,Red,Workflow details & CULT table details to be provided by OTK,Not Started,2026-06-26,2026-07-10,,,,11d,,,,,,106.0,,,,,,,,,,,
+,#UNPARSEABLE,2,Aftab Hashambhai,2,,,Green,Develop & Publish 1st draft of Implementation Approach Document (IAD) for eProc-eInvoice,Not Started,2026-07-07,2026-07-09,0.0,,,3d,"292, 293FS +2d",,,,,88.0000002083,,2026-05-12,2026-05-12,-24d,,,,Zycus Consultant,,,Yellow
+,#UNPARSEABLE,2,Aftab Hashambhai,2,,,Green,eProc-eInvoice IAD Review and Sign off by Titan,Not Started,2026-07-10,2026-07-13,0.0,,,2d,295,,,,,88.0000002083,,2026-05-13,2026-05-13,-25d,,,,Titan Project Manager,,,Yellow
+,#UNPARSEABLE,2,Aftab Hashambhai,2,,,Yellow,P2P Integration Design,In Progress,2026-06-29,2026-07-10,0.39,,,10d,,,,,,106.0,,,,,,,,,,,Yellow
+,#UNPARSEABLE,3,Aftab Hashambhai,3,,,Red,eInvoice outbound,In Progress,2026-06-29,2026-06-29,0.9,,,1d,,,,,,115.0,,2026-05-12,2026-05-19,-22d,,,,,,,Yellow
+,#UNPARSEABLE,4,Aftab Hashambhai,4,,,Red,"eInvoice integration use cases discussion-Invoice,creditmemo,payment,apportionment",In Progress,2026-06-29,2026-06-29,0.9,,,1d,,,,,,115.0,,2026-05-12,2026-05-13,-22d,,,,,,,Yellow
+,#UNPARSEABLE,3,Aftab Hashambhai,3,,,Red,eProc Direct & Indirect,In Progress,2026-06-30,2026-07-01,0.9,,,2d,,,,,,113.0,,2026-05-12,2026-05-18,-30d,,,,,,,Yellow
+,#UNPARSEABLE,4,Aftab Hashambhai,4,,,Red,"eProc integration use cases discussion-create,edit,cancel,close",In Progress,2026-06-30,2026-07-01,0.9,,,2d,,,,,,113.0,,2026-05-12,2026-05-12,-30d,,,,,,,Yellow
+,#UNPARSEABLE,3,Aftab Hashambhai,3,,,Green,Master data inbound,Not Started,2026-07-07,2026-07-08,0.0,,,2d,,,,,,108.0,,2026-05-12,2026-05-13,-44d,,,,,,,Yellow
+,#UNPARSEABLE,4,Aftab Hashambhai,4,,,Green,Master data discussion overall and connectivity-2 master data-Increase the days based on master data count including DDT/DMT,Not Started,2026-07-07,2026-07-08,0.0,,,2d,,,,,,89.0000002083,,2026-05-12,2026-05-12,-42d,,,,,,,Yellow
+,#UNPARSEABLE,3,Aftab Hashambhai,3,,,Green,Review and feedback incorporation,Not Started,2026-07-09,2026-07-09,0.0,,,1d,303,,,,,89.0000002083,,,,,,,,"Titan Integration Team, Titan Project Manager, Zycus Consultant, Zycus Integration Specialist",,,Yellow
+,#UNPARSEABLE,3,Aftab Hashambhai,3,,,Green,Sign off on LLD,Not Started,2026-07-10,2026-07-10,0.0,,,1d,304,,,,,89.0000002083,,,,,,,,Titan Project Manager,,,Yellow
+,#UNPARSEABLE,1,Aftab Hashambhai,1,,,Green,Configuration and Build phase,Not Started,2026-07-13,2026-09-03,,,,39d,,,,,,67.0,,,,,,,,,,,
+,#UNPARSEABLE,2,Aftab Hashambhai,2,,,Green,"eInvoice Config, Pre-UAT, Integration Design & Development and SIT",Not Started,2026-07-13,2026-09-03,,,,39d,,,,,,67.0,,,,,,,,,,,
+,#UNPARSEABLE,3,Aftab Hashambhai,3,,,Green,Functional Configuration Finalization on STAGING set Up,Not Started,2026-07-14,2026-08-07,,,,19d,,,,,,86.0,,,,,,,,,,,
+,#UNPARSEABLE,4,Aftab Hashambhai,4,,,Green,User Roles configuration,Not Started,2026-07-14,2026-07-15,,,,2d,296,,,,,88.0000001736,,,,,,,,,,,
+,#UNPARSEABLE,4,Aftab Hashambhai,4,,,Green,Admin settings configuration,Not Started,2026-07-16,2026-07-17,,,,2d,309,,,,,88.0000001389,,,,,,,,,,,
+,#UNPARSEABLE,4,Aftab Hashambhai,4,,,Green,Configure Workflow,Not Started,2026-07-20,2026-07-24,,,,5d,310,,,,,88.0000001042,,,,,,,,,,,
+,#UNPARSEABLE,4,Aftab Hashambhai,4,,,Green,Readiness for Pre-UAT,Not Started,2026-07-27,2026-07-28,,,,2d,311,,,,,88.0000000694,,,,,,,,,,,
+,#UNPARSEABLE,4,Aftab Hashambhai,4,,,Green,Pre-UAT on STAGING,Not Started,2026-07-27,2026-08-07,,,,10d,,,,,,86.0,,,,,,,,,,,
+,#UNPARSEABLE,5,Aftab Hashambhai,5,,,Green,Pre-UAT - Provide End to end walkthrough of configured eProc to the Customer,Not Started,2026-07-29,2026-07-31,,,,3d,312,,,,,88.0000000347,,,,,,,,,,,
+,#UNPARSEABLE,5,Aftab Hashambhai,5,,,Green,Pre-UAT for eInvoice,Not Started,2026-08-03,2026-08-05,,,,3d,314,,,,,88.0,,,,,,,,,,,
+,#UNPARSEABLE,5,Aftab Hashambhai,5,,,Green,Provide feedback - if any for eProc configuration,Not Started,2026-07-27,2026-07-30,,,,4d,,,,,,55.0000001042,,,,,,,,,,,
+,#UNPARSEABLE,5,Aftab Hashambhai,5,,,Green,Zycus to incorporate feedback - as applicable and share final version of Implementation Approach Document [IAD],Not Started,2026-07-31,2026-08-06,,,,5d,316,,,,,55.0000001042,,,,,,,,,,,
+,#UNPARSEABLE,5,Aftab Hashambhai,5,,,Green,Sign off on Pre-UAT and final version of IAD,Not Started,2026-08-07,2026-08-07,,,,1d,317,,,,,55.0000001042,,,,,,,,,,,
+,#UNPARSEABLE,3,Aftab Hashambhai,3,,,Green,eInvoice : Conclude Functional Configuration,Not Started,2026-08-10,2026-08-10,,,,1d,318,,,,,55.0000001042,,,,,,,,,,,
+,#UNPARSEABLE,3,Aftab Hashambhai,3,,,Green,eInvoice Integration,Not Started,2026-07-13,2026-09-03,,,,39d,,,,,,67.0,,,,,,,,,,,
+,#UNPARSEABLE,4,Aftab Hashambhai,4,,,Green,Integration Design,Not Started,2026-07-13,2026-07-21,,,,7d,,,,,,99.0,,,,,,,,,,,
+,#UNPARSEABLE,5,Aftab Hashambhai,5,,,Green,Mapping activity for Integration,Not Started,2026-07-13,2026-07-14,,,,2d,305,,,,,99.0000001042,,,,,,,,,,,
+,#UNPARSEABLE,5,Aftab Hashambhai,5,,,Green,Share TDD for interface,Not Started,2026-07-15,2026-07-15,,,,1d,322,,,,,99.0000000694,,,,,,,,,,,
+,#UNPARSEABLE,5,Aftab Hashambhai,5,,,Green,Review of TDD and share feedback with Zycus,Not Started,2026-07-16,2026-07-17,,,,2d,323,,,,,99.0000000347,,,,,,,,,,,
+,#UNPARSEABLE,5,Aftab Hashambhai,5,,,Green,Sign off on TDD,Not Started,2026-07-20,2026-07-21,,,,2d,324,,,,,99.0,,,,,,,,,,,
+,#UNPARSEABLE,4,Aftab Hashambhai,4,,,Green,Development and Testing on STAGING Set Up,Not Started,2026-08-11,2026-09-03,,,,18d,,,,,,67.0,,,,,,,,,,,
+,#UNPARSEABLE,5,Aftab Hashambhai,5,,,Green,Integration set up and development at Zycus,Not Started,2026-08-11,2026-08-17,,,,5d,319,,,,,80.0,,,,,,,,,,,
+,#UNPARSEABLE,5,Aftab Hashambhai,5,,,Green,Integration development at Titan - as applicable,Not Started,2026-08-11,2026-08-17,,,,5d,319,,,,,55.0000001042,,,,,,,,,,,
+,#UNPARSEABLE,5,Aftab Hashambhai,5,,,Green,Integration Unit Testing and Feedback Incorporation,Not Started,2026-08-18,2026-08-19,,,,2d,328,,,,,55.0000001042,,,,,,,,,,,
+,#UNPARSEABLE,5,Aftab Hashambhai,5,,,Green,Systems Integration Testing,Not Started,2026-08-20,2026-09-03,,,,11d,,,,,,67.0,,,,,,,,,,,
+,#UNPARSEABLE,6,Aftab Hashambhai,6,,,Green,SIT on STAGING Set Up,Not Started,2026-08-20,2026-09-02,,,,10d,329,,,,,55.0000001042,,,,,,,,,,,
+,#UNPARSEABLE,6,Aftab Hashambhai,6,,,Green,Sign off on SIT,Not Started,2026-09-03,2026-09-03,,,,1d,331,,,,,55.0000001042,,,,,,,,,,,
+,#UNPARSEABLE,4,Aftab Hashambhai,4,,,Green,Integrations Punchout 1,Not Started,2026-07-13,2026-08-04,,,,17d,,,,,,89.0,,,,,,,,,,,
+,#UNPARSEABLE,5,Aftab Hashambhai,5,,,Green,eInvoice Integration,Not Started,2026-07-13,2026-08-04,,,,17d,,,,,,89.0,,,,,,,,,,,
+,#UNPARSEABLE,6,Aftab Hashambhai,6,,,Green,Integration Design,Not Started,2026-07-13,2026-07-16,,,,4d,,,,,,102.0,,,,,,,,,,,
+,#UNPARSEABLE,7,Aftab Hashambhai,7,,,Green,Questionnaire Sharing and Sample Files with Supplier,Not Started,2026-07-13,2026-07-13,,,,1d,305,,,,,89.0000001736,,,,,,,,,,,
+,#UNPARSEABLE,7,Aftab Hashambhai,7,,,Green,Supplier Registration on ZSN staging,Not Started,2026-07-14,2026-07-16,,,,3d,336,,,,,89.0000001389,,,,,,,,,,,
+,#UNPARSEABLE,6,Aftab Hashambhai,6,,,Green,Development and Testing on STAGING Set Up,Not Started,2026-07-17,2026-08-04,,,,13d,,,,,,89.0,,,,,,,,,,,
+,#UNPARSEABLE,7,Aftab Hashambhai,7,,,Green,Punchout Setup and Connectivity testing,Not Started,2026-07-17,2026-07-23,,,,5d,337,,,,,89.0000001042,,,,,,,,,,,
+,#UNPARSEABLE,7,Aftab Hashambhai,7,,,Green,PO and Invoice Unit Testing,Not Started,2026-07-24,2026-07-27,,,,2d,339,,,,,89.0000000694,,,,,,,,,,,
+,#UNPARSEABLE,7,Aftab Hashambhai,7,,,Green,Zycus test case documentation,Not Started,2026-07-28,2026-07-28,,,,1d,340,,,,,94.0,,,,,,,,,,,
+,#UNPARSEABLE,7,Aftab Hashambhai,7,,,Green,Systems Integration Testing,Not Started,2026-07-28,2026-08-04,,,,6d,,,,,,89.0,,,,,,,,,,,
+,#UNPARSEABLE,8,Aftab Hashambhai,8,,,Green,SIT on STAGING Set Up,Not Started,2026-07-28,2026-08-03,,,,5d,340,,,,,89.0000000347,,,,,,,,,,,
+,#UNPARSEABLE,8,Aftab Hashambhai,8,,,Green,Sign off on SIT,Not Started,2026-08-04,2026-08-04,,,,1d,343,,,,,89.0,,,,,,,,,,,
+,#UNPARSEABLE,4,Aftab Hashambhai,4,,,Green,Integrations Punchout 2,Not Started,2026-07-13,2026-08-04,,,,17d,,,,,,89.0,,,,,,,,,,,
+,#UNPARSEABLE,5,Aftab Hashambhai,5,,,Green,eInvoice Integration,Not Started,2026-07-13,2026-08-04,,,,17d,,,,,,89.0,,,,,,,,,,,
+,#UNPARSEABLE,6,Aftab Hashambhai,6,,,Green,Integration Design,Not Started,2026-07-13,2026-07-16,,,,4d,,,,,,102.0,,,,,,,,,,,
+,#UNPARSEABLE,7,Aftab Hashambhai,7,,,Green,Questionnaire Sharing and Sample Files with Supplier,Not Started,2026-07-13,2026-07-13,,,,1d,305,,,,,89.0000001736,,,,,,,,,,,
+,#UNPARSEABLE,7,Aftab Hashambhai,7,,,Green,Supplier Registration on ZSN staging,Not Started,2026-07-14,2026-07-16,,,,3d,348,,,,,89.0000001389,,,,,,,,,,,
+,#UNPARSEABLE,6,Aftab Hashambhai,6,,,Green,Development and Testing on STAGING Set Up,Not Started,2026-07-17,2026-08-04,,,,13d,,,,,,89.0,,,,,,,,,,,
+,#UNPARSEABLE,7,Aftab Hashambhai,7,,,Green,Punchout Setup and Connectivity testing,Not Started,2026-07-17,2026-07-23,,,,5d,349,,,,,89.0000001042,,,,,,,,,,,
+,#UNPARSEABLE,7,Aftab Hashambhai,7,,,Green,PO and Invoice Unit Testing,Not Started,2026-07-24,2026-07-27,,,,2d,351,,,,,89.0000000694,,,,,,,,,,,
+,#UNPARSEABLE,7,Aftab Hashambhai,7,,,Green,Zycus test case documentation,Not Started,2026-07-28,2026-07-28,,,,1d,352,,,,,94.0,,,,,,,,,,,
+,#UNPARSEABLE,7,Aftab Hashambhai,7,,,Green,Systems Integration Testing,Not Started,2026-07-28,2026-08-04,,,,6d,,,,,,89.0,,,,,,,,,,,
+,#UNPARSEABLE,8,Aftab Hashambhai,8,,,Green,SIT on STAGING Set Up,Not Started,2026-07-28,2026-08-03,,,,5d,352,,,,,89.0000000347,,,,,,,,,,,
+,#UNPARSEABLE,8,Aftab Hashambhai,8,,,Green,Sign off on SIT,Not Started,2026-08-04,2026-08-04,,,,1d,355,,,,,89.0,,,,,,,,,,,
+,#UNPARSEABLE,4,Aftab Hashambhai,4,,,Green,Integrations Punchout 3,Not Started,2026-07-13,2026-08-04,,,,17d,,,,,,89.0,,,,,,,,,,,
+,#UNPARSEABLE,5,Aftab Hashambhai,5,,,Green,eInvoice Integration,Not Started,2026-07-13,2026-08-04,,,,17d,,,,,,89.0,,,,,,,,,,,
+,#UNPARSEABLE,6,Aftab Hashambhai,6,,,Green,Integration Design,Not Started,2026-07-13,2026-07-16,,,,4d,,,,,,102.0,,,,,,,,,,,
+,#UNPARSEABLE,7,Aftab Hashambhai,7,,,Green,Questionnaire Sharing and Sample Files with Supplier,Not Started,2026-07-13,2026-07-13,,,,1d,305,,,,,89.0000001736,,,,,,,,,,,
+,#UNPARSEABLE,7,Aftab Hashambhai,7,,,Green,Supplier Registration on ZSN staging,Not Started,2026-07-14,2026-07-16,,,,3d,360,,,,,89.0000001389,,,,,,,,,,,
+,#UNPARSEABLE,6,Aftab Hashambhai,6,,,Green,Development and Testing on STAGING Set Up,Not Started,2026-07-17,2026-08-04,,,,13d,,,,,,89.0,,,,,,,,,,,
+,#UNPARSEABLE,7,Aftab Hashambhai,7,,,Green,Punchout Setup and Connectivity testing,Not Started,2026-07-17,2026-07-23,,,,5d,361,,,,,89.0000001042,,,,,,,,,,,
+,#UNPARSEABLE,7,Aftab Hashambhai,7,,,Green,PO and Invoice Unit Testing,Not Started,2026-07-24,2026-07-27,,,,2d,363,,,,,89.0000000694,,,,,,,,,,,
+,#UNPARSEABLE,7,Aftab Hashambhai,7,,,Green,Zycus test case documentation,Not Started,2026-07-28,2026-07-28,,,,1d,364,,,,,94.0,,,,,,,,,,,
+,#UNPARSEABLE,7,Aftab Hashambhai,7,,,Green,Systems Integration Testing,Not Started,2026-07-28,2026-08-04,,,,6d,,,,,,89.0,,,,,,,,,,,
+,#UNPARSEABLE,8,Aftab Hashambhai,8,,,Green,SIT on STAGING Set Up,Not Started,2026-07-28,2026-08-03,,,,5d,364,,,,,89.0000000347,,,,,,,,,,,
+,#UNPARSEABLE,8,Aftab Hashambhai,8,,,Green,Sign off on SIT,Not Started,2026-08-04,2026-08-04,,,,1d,367,,,,,89.0,,,,,,,,,,,
+,#UNPARSEABLE,2,Aftab Hashambhai,2,,,Green,"eProc Config, Pre-UAT, Integration Design & Development and SIT",Not Started,2026-07-13,2026-09-03,,,,39d,,,,,,67.0,,,,,,,,,,,
+,#UNPARSEABLE,3,Aftab Hashambhai,3,,,Green,Functional Configuration Finalization on STAGING set Up,Not Started,2026-07-14,2026-08-07,,,,19d,,,,,,86.0,,,,,,,,,,,
+,#UNPARSEABLE,4,Aftab Hashambhai,4,,,Green,User Roles configuration,Not Started,2026-07-14,2026-07-15,,,,2d,296,,,,,88.0000001736,,,,,,,,,,,
+,#UNPARSEABLE,4,Aftab Hashambhai,4,,,Green,Admin settings configuration,Not Started,2026-07-16,2026-07-17,,,,2d,371,,,,,88.0000001389,,,,,,,,,,,
+,#UNPARSEABLE,4,Aftab Hashambhai,4,,,Green,Configure Workflow,Not Started,2026-07-20,2026-07-24,,,,5d,372,,,,,88.0000001042,,,,,,,,,,,
+,#UNPARSEABLE,4,Aftab Hashambhai,4,,,Green,Readiness for Pre-UAT,Not Started,2026-07-27,2026-07-28,,,,2d,373,,,,,88.0000000694,,,,,,,,,,,
+,#UNPARSEABLE,4,Aftab Hashambhai,4,,,Green,Pre-UAT on STAGING,Not Started,2026-07-27,2026-08-07,,,,10d,,,,,,86.0,,,,,,,,,,,
+,#UNPARSEABLE,5,Aftab Hashambhai,5,,,Green,Pre-UAT - Provide End to end walkthrough of configured eProc to the Customer,Not Started,2026-07-29,2026-07-31,,,,3d,374,,,,,88.0000000347,,,,,,,,,,,
+,#UNPARSEABLE,5,Aftab Hashambhai,5,,,Green,Pre-UAT for eProc Direct,Not Started,2026-08-03,2026-08-05,,,,3d,376,,,,,88.0,,,,,,,,,,,
+,#UNPARSEABLE,5,Aftab Hashambhai,5,,,Green,Provide feedback - if any for eProc Direct configuration,Not Started,2026-07-27,2026-07-30,,,,4d,,,,,,55.0000001042,,,,,,,,,,,
+,#UNPARSEABLE,5,Aftab Hashambhai,5,,,Green,Zycus to incorporate feedback - as applicable and share final version of Implementation Approach Document [IAD],Not Started,2026-07-31,2026-08-06,,,,5d,378,,,,,55.0000001042,,,,,,,,,,,
+,#UNPARSEABLE,5,Aftab Hashambhai,5,,,Green,Sign off on Pre-UAT and final version of IAD,Not Started,2026-08-07,2026-08-07,,,,1d,379,,,,,55.0000001042,,,,,,,,,,,
+,#UNPARSEABLE,3,Aftab Hashambhai,3,,,Green,eProc Direct : Conclude Functional Configuration,Not Started,2026-08-10,2026-08-10,,,,1d,380,,,,,55.0000001042,,,,,,,,,,,
+,#UNPARSEABLE,3,Aftab Hashambhai,3,,,Green,Integrations eProc Direct,Not Started,2026-07-13,2026-09-03,,,,39d,,,,,,67.0,,,,,,,,,,,
+,#UNPARSEABLE,4,Aftab Hashambhai,4,,,Green,eProc Direct Integration,Not Started,2026-07-13,2026-09-03,,,,39d,,,,,,67.0,,,,,,,,,,,
+,#UNPARSEABLE,5,Aftab Hashambhai,5,,,Green,Integration Design,Not Started,2026-07-13,2026-07-21,,,,7d,,,,,,99.0,,,,,,,,,,,
+,#UNPARSEABLE,6,Aftab Hashambhai,6,,,Green,Mapping activity for Integration,Not Started,2026-07-13,2026-07-14,,,,2d,305,,,,,99.0000001042,,,,,,,,,,,
+,#UNPARSEABLE,6,Aftab Hashambhai,6,,,Green,Share TDD for interface,Not Started,2026-07-15,2026-07-15,,,,1d,385,,,,,99.0000000694,,,,,,,,,,,
+,#UNPARSEABLE,6,Aftab Hashambhai,6,,,Green,Review of TDD and share feedback with Zycus,Not Started,2026-07-16,2026-07-17,,,,2d,386,,,,,99.0000000347,,,,,,,,,,,
+,#UNPARSEABLE,6,Aftab Hashambhai,6,,,Green,Sign off on TDD,Not Started,2026-07-20,2026-07-21,,,,2d,387,,,,,99.0,,,,,,,,,,,
+,#UNPARSEABLE,5,Aftab Hashambhai,5,,,Green,Development and Testing on STAGING Set Up,Not Started,2026-08-11,2026-09-03,,,,18d,,,,,,67.0,,,,,,,,,,,
+,#UNPARSEABLE,6,Aftab Hashambhai,6,,,Green,Integration set up and development at Zycus,Not Started,2026-08-11,2026-08-17,,,,5d,381,,,,,80.0,,,,,,,,,,,
+,#UNPARSEABLE,6,Aftab Hashambhai,6,,,Green,Integration development at Titan - as applicable,Not Started,2026-08-11,2026-08-17,,,,5d,381,,,,,55.0000001042,,,,,,,,,,,
+,#UNPARSEABLE,6,Aftab Hashambhai,6,,,Green,Integration Unit Testing and Feedback Incorporation,Not Started,2026-08-18,2026-08-19,,,,2d,391,,,,,55.0000001042,,,,,,,,,,,
+,#UNPARSEABLE,6,Aftab Hashambhai,6,,,Green,Systems Integration Testing,Not Started,2026-08-20,2026-09-03,,,,11d,,,,,,67.0,,,,,,,,,,,
+,#UNPARSEABLE,7,Aftab Hashambhai,7,,,Green,SIT on STAGING Set Up,Not Started,2026-08-20,2026-09-02,,,,10d,392,,,,,55.0000001042,,,,,,,,,,,
+,#UNPARSEABLE,7,Aftab Hashambhai,7,,,Green,Sign off on SIT,Not Started,2026-09-03,2026-09-03,,,,1d,394,,,,,55.0000001042,,,,,,,,,,,
+,#UNPARSEABLE,2,Aftab Hashambhai,2,,,Green,"eProc In-Direct Config, Pre-UAT, Integration Design & Development and SIT",Not Started,2026-07-13,2026-09-03,,,,39d,,,,,,67.0,,,,,,,,,,,
+,#UNPARSEABLE,3,Aftab Hashambhai,3,,,Green,Functional Configuration Finalization on STAGING set Up,Not Started,2026-07-14,2026-08-07,,,,19d,,,,,,86.0,,,,,,,,,,,
+,#UNPARSEABLE,4,Aftab Hashambhai,4,,,Green,User Roles configuration,Not Started,2026-07-14,2026-07-15,,,,2d,296,,,,,88.0000001736,,,,,,,,,,,
+,#UNPARSEABLE,4,Aftab Hashambhai,4,,,Green,Admin settings configuration,Not Started,2026-07-16,2026-07-17,,,,2d,398,,,,,88.0000001389,,,,,,,,,,,
+,#UNPARSEABLE,4,Aftab Hashambhai,4,,,Green,Configure Workflow,Not Started,2026-07-20,2026-07-24,,,,5d,399,,,,,88.0000001042,,,,,,,,,,,
+,#UNPARSEABLE,4,Aftab Hashambhai,4,,,Green,Readiness for Pre-UAT,Not Started,2026-07-27,2026-07-28,,,,2d,400,,,,,88.0000000694,,,,,,,,,,,
+,#UNPARSEABLE,4,Aftab Hashambhai,4,,,Green,Pre-UAT on STAGING,Not Started,2026-07-27,2026-08-07,,,,10d,,,,,,86.0,,,,,,,,,,,
+,#UNPARSEABLE,5,Aftab Hashambhai,5,,,Green,Pre-UAT - Provide End to end walkthrough of configured eProc to the Customer,Not Started,2026-07-29,2026-07-31,,,,3d,401,,,,,88.0000000347,,,,,,,,,,,
+,#UNPARSEABLE,5,Aftab Hashambhai,5,,,Green,eProc Direct Pre-UAT,Not Started,2026-08-03,2026-08-05,,,,3d,403,,,,,88.0,,,,,,,,,,,
+,#UNPARSEABLE,5,Aftab Hashambhai,5,,,Green,Provide feedback - if any for eProc configuration,Not Started,2026-07-27,2026-07-30,,,,4d,,,,,,55.0000001042,,,,,,,,,,,
+,#UNPARSEABLE,5,Aftab Hashambhai,5,,,Green,Zycus to incorporate feedback - as applicable and share final version of Implementation Approach Document [IAD],Not Started,2026-07-31,2026-08-06,,,,5d,405,,,,,55.0000001042,,,,,,,,,,,
+,#UNPARSEABLE,5,Aftab Hashambhai,5,,,Green,Sign off on Pre-UAT and final version of IAD,Not Started,2026-08-07,2026-08-07,,,,1d,406,,,,,55.0000001042,,,,,,,,,,,
+,#UNPARSEABLE,3,Aftab Hashambhai,3,,,Green,eProc Direct : Conclude Functional Configuration,Not Started,2026-08-10,2026-08-10,,,,1d,407,,,,,55.0000001042,,,,,,,,,,,
+,#UNPARSEABLE,3,Aftab Hashambhai,3,,,Green,Integrations eInvoice,Not Started,2026-07-13,2026-09-03,,,,39d,,,,,,67.0,,,,,,,,,,,
+,#UNPARSEABLE,4,Aftab Hashambhai,4,,,Green,Integration Design,Not Started,2026-07-13,2026-07-21,,,,7d,,,,,,99.0,,,,,,,,,,,
+,#UNPARSEABLE,5,Aftab Hashambhai,5,,,Green,Mapping activity for Integration,Not Started,2026-07-13,2026-07-14,,,,2d,305,,,,,99.0000001042,,,,,,,,,,,
+,#UNPARSEABLE,5,Aftab Hashambhai,5,,,Green,Share TDD for interface,Not Started,2026-07-15,2026-07-15,,,,1d,411,,,,,99.0000000694,,,,,,,,,,,
+,#UNPARSEABLE,5,Aftab Hashambhai,5,,,Green,Review of TDD and share feedback with Zycus,Not Started,2026-07-16,2026-07-17,,,,2d,412,,,,,99.0000000347,,,,,,,,,,,
+,#UNPARSEABLE,5,Aftab Hashambhai,5,,,Green,Sign off on TDD,Not Started,2026-07-20,2026-07-21,,,,2d,413,,,,,99.0,,,,,,,,,,,
+,#UNPARSEABLE,4,Aftab Hashambhai,4,,,Green,Development and Testing on STAGING Set Up,Not Started,2026-08-11,2026-09-03,,,,18d,,,,,,67.0,,,,,,,,,,,
+,#UNPARSEABLE,5,Aftab Hashambhai,5,,,Green,Integration set up and development at Zycus,Not Started,2026-08-11,2026-08-17,,,,5d,408,,,,,80.0,,,,,,,,,,,
+,#UNPARSEABLE,5,Aftab Hashambhai,5,,,Green,Integration development at Titan - as applicable,Not Started,2026-08-11,2026-08-17,,,,5d,408,,,,,55.0000001042,,,,,,,,,,,
+,#UNPARSEABLE,5,Aftab Hashambhai,5,,,Green,Integration Unit Testing and Feedback Incorporation,Not Started,2026-08-18,2026-08-19,,,,2d,417,,,,,55.0000001042,,,,,,,,,,,
+,#UNPARSEABLE,5,Aftab Hashambhai,5,,,Green,Systems Integration Testing,Not Started,2026-08-20,2026-09-03,,,,11d,,,,,,67.0,,,,,,,,,,,
+,#UNPARSEABLE,6,Aftab Hashambhai,6,,,Green,SIT on STAGING Set Up,Not Started,2026-08-20,2026-09-02,,,,10d,418,,,,,55.0000001042,,,,,,,,,,,
+,#UNPARSEABLE,6,Aftab Hashambhai,6,,,Green,Sign off on SIT,Not Started,2026-09-03,2026-09-03,,,,1d,420,,,,,55.0000001042,,,,,,,,,,,
+,#UNPARSEABLE,2,Aftab Hashambhai,2,,,Green,"Masterdata Config, Pre-UAT, Integration Design & Development and SIT",Not Started,2026-07-13,2026-09-03,,,,39d,,,,,,67.0,,,,,,,,,,,
+,#UNPARSEABLE,3,Aftab Hashambhai,3,,,Green,Functional Configuration Finalization on STAGING set Up,Not Started,2026-07-14,2026-08-07,,,,19d,,,,,,86.0,,,,,,,,,,,
+,#UNPARSEABLE,4,Aftab Hashambhai,4,,,Green,User Roles configuration,Not Started,2026-07-14,2026-07-15,,,,2d,296,,,,,88.0000001736,,,,,,,,,,,
+,#UNPARSEABLE,4,Aftab Hashambhai,4,,,Green,Admin settings configuration,Not Started,2026-07-16,2026-07-17,,,,2d,424,,,,,88.0000001389,,,,,,,,,,,
+,#UNPARSEABLE,4,Aftab Hashambhai,4,,,Green,Configure Workflow,Not Started,2026-07-20,2026-07-24,,,,5d,425,,,,,88.0000001042,,,,,,,,,,,
+,#UNPARSEABLE,4,Aftab Hashambhai,4,,,Green,Readiness for Pre-UAT,Not Started,2026-07-27,2026-07-28,,,,2d,426,,,,,88.0000000694,,,,,,,,,,,
+,#UNPARSEABLE,4,Aftab Hashambhai,4,,,Green,Pre-UAT on STAGING,Not Started,2026-07-27,2026-08-07,,,,10d,,,,,,86.0,,,,,,,,,,,
+,#UNPARSEABLE,5,Aftab Hashambhai,5,,,Green,Pre-UAT - Provide End to end walkthrough of configured eProc to the Customer,Not Started,2026-07-29,2026-07-31,,,,3d,427,,,,,88.0000000347,,,,,,,,,,,
+,#UNPARSEABLE,5,Aftab Hashambhai,5,,,Green,Pre-UAT of Master Data,Not Started,2026-08-03,2026-08-05,,,,3d,429,,,,,88.0,,,,,,,,,,,
+,#UNPARSEABLE,5,Aftab Hashambhai,5,,,Green,Provide feedback - if any for masterdata configuration,Not Started,2026-07-27,2026-07-30,,,,4d,,,,,,55.0000001042,,,,,,,,,,,
+,#UNPARSEABLE,5,Aftab Hashambhai,5,,,Green,Zycus to incorporate feedback - as applicable and share final version of Implementation Approach Document [IAD],Not Started,2026-07-31,2026-08-06,,,,5d,431,,,,,55.0000001042,,,,,,,,,,,
+,#UNPARSEABLE,5,Aftab Hashambhai,5,,,Green,Sign off on Pre-UAT and final version of IAD,Not Started,2026-08-07,2026-08-07,,,,1d,432,,,,,55.0000001042,,,,,,,,,,,
+,#UNPARSEABLE,3,Aftab Hashambhai,3,,,Green,Master Data: Conclude Functional Configuration,Not Started,2026-08-10,2026-08-10,,,,1d,433,,,,,55.0000001042,,,,,,,,,,,
+,#UNPARSEABLE,3,Aftab Hashambhai,3,,,Green,Integrations Master data,Not Started,2026-07-13,2026-09-03,,,,39d,,,,,,67.0,,,,,,,,,,,
+,#UNPARSEABLE,4,Aftab Hashambhai,4,,,Green,Integration Design,Not Started,2026-07-13,2026-07-21,,,,7d,,,,,,99.0,,,,,,,,,,,
+,#UNPARSEABLE,5,Aftab Hashambhai,5,,,Green,Mapping activity for Integration,Not Started,2026-07-13,2026-07-14,,,,2d,305,,,,,99.0000001042,,,,,,,,,,,
+,#UNPARSEABLE,5,Aftab Hashambhai,5,,,Green,Share TDD for interface,Not Started,2026-07-15,2026-07-15,,,,1d,437,,,,,99.0000000694,,,,,,,,,,,
+,#UNPARSEABLE,5,Aftab Hashambhai,5,,,Green,Review of TDD and share feedback with Zycus,Not Started,2026-07-16,2026-07-17,,,,2d,438,,,,,99.0000000347,,,,,,,,,,,
+,#UNPARSEABLE,5,Aftab Hashambhai,5,,,Green,Sign off on TDD,Not Started,2026-07-20,2026-07-21,,,,2d,439,,,,,99.0,,,,,,,,,,,
+,#UNPARSEABLE,4,Aftab Hashambhai,4,,,Green,Development and Testing on STAGING Set Up,Not Started,2026-08-11,2026-09-03,,,,18d,,,,,,67.0,,,,,,,,,,,
+,#UNPARSEABLE,5,Aftab Hashambhai,5,,,Green,Integration set up and development at Zycus,Not Started,2026-08-11,2026-08-17,,,,5d,434,,,,,80.0,,,,,,,,,,,
+,#UNPARSEABLE,5,Aftab Hashambhai,5,,,Green,Integration development at Titan - as applicable,Not Started,2026-08-11,2026-08-17,,,,5d,434,,,,,55.0000001042,,,,,,,,,,,
+,#UNPARSEABLE,5,Aftab Hashambhai,5,,,Green,Integration Unit Testing and Feedback Incorporation,Not Started,2026-08-18,2026-08-19,,,,2d,443,,,,,55.0000001042,,,,,,,,,,,
+,#UNPARSEABLE,5,Aftab Hashambhai,5,,,Green,Systems Integration Testing,Not Started,2026-08-20,2026-09-03,,,,11d,,,,,,67.0,,,,,,,,,,,
+,#UNPARSEABLE,6,Aftab Hashambhai,6,,,Green,SIT on STAGING Set Up,Not Started,2026-08-20,2026-09-02,,,,10d,444,,,,,55.0000001042,,,,,,,,,,,
+,#UNPARSEABLE,6,Aftab Hashambhai,6,,,Green,Sign off on SIT,Not Started,2026-09-03,2026-09-03,,,,1d,446,,,,,55.0000001042,,,,,,,,,,,
+,#UNPARSEABLE,1,Aftab Hashambhai,1,,,Green,User Acceptance Testing (UAT),Not Started,2026-09-04,2026-10-20,0.0,,,33d,,,,,,34.0,,,,,,,,,,,
+,#UNPARSEABLE,2,Aftab Hashambhai,2,,,Green,Prepare for UAT,Not Started,2026-09-04,2026-09-14,,,,7d,,,,,,60.0,,,,,,,,,,,
+,#UNPARSEABLE,3,Aftab Hashambhai,3,,,Green,Prepare the UAT Approach,Not Started,2026-09-04,2026-09-07,,,,2d,"332, 395, 421, 447",,,,,55.0000001042,,,,,,,,,,,
+,#UNPARSEABLE,3,Aftab Hashambhai,3,,,Green,Finalize and agree on UAT Approach,Not Started,2026-09-08,2026-09-09,,,,2d,450,,,,,63.0,,,,,,,,,,,
+,#UNPARSEABLE,3,Aftab Hashambhai,3,,,Green,Provide users & roles on STAGING required for UAT,Not Started,2026-09-08,2026-09-08,,,,1d,450,,,,,64.0,,,,,,,,,,,
+,#UNPARSEABLE,3,Aftab Hashambhai,3,,,Green,Create users on STAGING set for UAT group,Not Started,2026-09-08,2026-09-09,,,,2d,450,,,,,63.0,,,,,,,,,,,
+,#UNPARSEABLE,3,Aftab Hashambhai,3,,,Green,Provide Standard Test Cases,Not Started,2026-09-08,2026-09-10,,,,3d,450,,,,,55.0000000694,,,,,,,,,,,
+,#UNPARSEABLE,3,Aftab Hashambhai,3,,,Green,Finalize Test Cases,Not Started,2026-09-11,2026-09-14,,,,2d,454,,,,,55.0000000347,,,,,,,,,,,
+,#UNPARSEABLE,2,Aftab Hashambhai,2,,,Green,Quality Reviews,Not Started,2026-09-08,2026-09-11,,,,4d,,,,,,61.0,,,,,,,,,,,
+,#UNPARSEABLE,3,Aftab Hashambhai,3,,,Green,Schedule for quality check,Not Started,2026-09-08,2026-09-08,,,,1d,450,,,,,61.0000000694,,,,,,,,,,,
+,#UNPARSEABLE,3,Aftab Hashambhai,3,,,Green,"Perform quality checks, PSRs as per quality checklist and submit to QC team",Not Started,2026-09-09,2026-09-10,,,,2d,457,,,,,61.0000000347,,,,,,,,,,,
+,#UNPARSEABLE,3,Aftab Hashambhai,3,,,Green,Quality Check by Zycus QC team,Not Started,2026-09-11,2026-09-11,,,,1d,458,,,,,61.0,,,,,,,,,,,
+,#UNPARSEABLE,2,Aftab Hashambhai,2,,,Green,End-to-End UAT,Not Started,2026-09-15,2026-09-23,,,,7d,,,,,,53.0,,,,,,,,,,,
+,#UNPARSEABLE,3,Aftab Hashambhai,3,,,Green,UAT of End-to-end system - eProc & eInvoice,Not Started,2026-09-15,2026-09-21,,,,5d,455,,,,,55.0,,,,,,,,,,,
+,#UNPARSEABLE,3,Aftab Hashambhai,3,,,Green,Defect Analysis & UAT Feedback incorporation and share Test Closure Memo,Not Started,2026-09-16,2026-09-22,,,,5d,,,,,,0.0,1.0,,,,,,,,,,
+,#UNPARSEABLE,3,Aftab Hashambhai,3,,,Green,Titan to provide sign off on Test Closure Memo,Not Started,2026-09-23,2026-09-23,,,,1d,462,,,,,0.0,1.0,,,,,,,,,,
+,#UNPARSEABLE,2,Aftab Hashambhai,2,,,Green,Migration of Solution from UAT to PRODUCTION,Not Started,2026-09-24,2026-10-09,0.0,,,12d,,,,,,41.0,,2026-07-20,2026-08-05,-41d,,,,,,,Yellow
+,#UNPARSEABLE,3,Aftab Hashambhai,3,,,Green,Log ticket for PRODUCTION tenant creation (Starting with SSO sign off on STAGING),Not Started,2026-09-24,2026-09-24,0.0,,,1d,463,,,,,45.0000001042,,2026-07-23,2026-07-23,-41d,,,,Zycus Product Specialist,,,Yellow
+,#UNPARSEABLE,3,Aftab Hashambhai,3,,,Green,iSupplier is PROD Ready with Supplier Bulk upload on PRODUCTION,Not Started,2026-09-25,2026-09-25,0.0,,,1d,465,,,,,45.0000000694,,2026-07-28,2026-07-28,-41d,,,,"Zycus Consultant, Zycus Product Specialist",,,Yellow
+,#UNPARSEABLE,3,Aftab Hashambhai,3,,,Green,ZSN & P2P configuration for catalog uploads by Titan/Supplier,Not Started,2026-09-28,2026-09-30,0.0,,,3d,466,,,,,48.0,,2026-07-24,2026-07-28,-41d,,,,Zycus Product Specialist,,,Yellow
+,#UNPARSEABLE,3,Aftab Hashambhai,3,,,Green,Titan to provide refreshed Master data for PRODUCTION,Not Started,2026-09-24,2026-09-28,0.0,,,3d,463,,,,,50.0,,2026-07-20,2026-07-22,-41d,,,,Titan Project Team,,,Yellow
+,#UNPARSEABLE,3,Aftab Hashambhai,3,,,Green,Zycus validation and data iterations,Not Started,2026-09-28,2026-09-30,0.0,,,3d,466,,,,,45.0000000347,,2026-07-23,2026-07-27,-41d,,,,Zycus Product Specialist,,,Yellow
+,#UNPARSEABLE,3,Aftab Hashambhai,3,,,Green,Titan to move integration code to PRODUCTION environment,Not Started,2026-10-01,2026-10-05,0.0,,,3d,469,,,,,45.0,,2026-07-23,2026-07-27,-41d,,,,Titan Project Team,,,Yellow
+,#UNPARSEABLE,3,Aftab Hashambhai,3,,,Green,Setup PRODUCTION environment (master data) - Zycus,Not Started,2026-09-24,2026-09-30,0.0,,,5d,463,,,,,48.0,,2026-07-28,2026-08-03,-41d,,,,Zycus Product Specialist,,,Yellow
+,#UNPARSEABLE,3,Aftab Hashambhai,3,,,Green,Setup PRODUCTION environment (configuration) - Zycus,Not Started,2026-09-24,2026-09-30,0.0,,,5d,463,,,,,48.0,,2026-07-28,2026-08-03,-41d,,,,Zycus Product Specialist,,,Yellow
+,#UNPARSEABLE,3,Aftab Hashambhai,3,,,Green,Setup PRODUCTION environment (Integration) - Zycus,Not Started,2026-09-24,2026-09-30,0.0,,,5d,463,,,,,0.0,1.0,2026-07-24,2026-07-30,-41d,,,,Zycus Product Specialist,,,Yellow
+,#UNPARSEABLE,3,Aftab Hashambhai,3,,,Green,Quality Check,Not Started,2026-10-01,2026-10-09,0.0,,,7d,,,,,,41.0,,2026-07-28,2026-08-05,-41d,,,,,,,Yellow
+,#UNPARSEABLE,4,Aftab Hashambhai,4,,,Green,Schedule for quality check,Not Started,2026-10-01,2026-10-01,0.0,,,1d,473,,,,,0.0,1.0,2026-07-28,2026-07-28,-41d,,,,Zycus Product Specialist,,,Yellow
+,#UNPARSEABLE,4,Aftab Hashambhai,4,,,Green,"Perform quality checks, PSRs as per quality checklist and submit to QC team",Not Started,2026-10-02,2026-10-08,0.0,,,5d,475,,,,,0.0,1.0,2026-08-04,2026-08-04,-41d,,,,Zycus Product Specialist,,,Yellow
+,#UNPARSEABLE,4,Aftab Hashambhai,4,,,Green,Quality Check by Zycus QC team,Not Started,2026-10-09,2026-10-09,0.0,,,1d,476,,,,,0.0,1.0,2026-08-05,2026-08-05,-41d,,,,Zycus Quality Team,,,Yellow
+,#UNPARSEABLE,2,Aftab Hashambhai,2,,,Green,Training,Not Started,2026-10-12,2026-10-20,0.0,,,7d,,,,,,34.0,,2026-08-03,2026-08-07,-38d,,,,,,,Yellow
+,#UNPARSEABLE,3,Aftab Hashambhai,3,,,Green,eProc Training (Train the Trainer),Not Started,2026-10-12,2026-10-15,0.0,,,4d,477,,,,,34.0000000694,,2026-08-03,2026-08-06,-36d,,,,"Titan Project Manager, Titan Project Team, Zycus University Trainer",,,Yellow
+,#UNPARSEABLE,3,Aftab Hashambhai,3,,,Green,eInvoice Training (Train the Trainer),Not Started,2026-10-16,2026-10-19,0.0,,,2d,479,,,,,34.0000000347,,2026-08-03,2026-08-04,-40d,,,,"Titan Project Manager, Titan Project Team, Zycus University Trainer",,,Yellow
+,#UNPARSEABLE,3,Aftab Hashambhai,3,,,Green,Admin Training,Not Started,2026-10-20,2026-10-20,0.0,,,1d,480,,,,,34.0,,2026-08-07,2026-08-07,-38d,,,,"Titan Project Manager, Titan Project Team, Zycus University Trainer",,,Yellow
+,#UNPARSEABLE,1,Aftab Hashambhai,1,,,Green,P2P Cutover,Not Started,2026-10-12,2026-12-07,0.0,,,41d,,,,,,0.0,,2026-07-13,2026-08-07,-62d,,,,,,,Yellow
+,#UNPARSEABLE,2,Aftab Hashambhai,2,,,Green,First Go-Live communication to all suppliers,Not Started,2026-10-12,2026-10-13,0.0,,,2d,477,,,,,0.0,1.0,2026-07-13,2026-07-13,-59d,,,,Titan Project Team,,,Yellow
+,#UNPARSEABLE,2,Aftab Hashambhai,2,,,Green,Share updated P2P user list,Not Started,2026-10-12,2026-10-13,0.0,,,2d,477,,,,,39.0,,2026-07-27,2026-07-27,-51d,,,,Titan Project Team,,,Yellow
+,#UNPARSEABLE,2,Aftab Hashambhai,2,,,Green,Second Go-Live communication to all suppliers,Not Started,2026-10-14,2026-10-15,0.0,,,2d,483,,,,,0.0,1.0,2026-07-27,2026-07-27,-53d,,,,Titan Project Team,,,Yellow
+,#UNPARSEABLE,2,Aftab Hashambhai,2,,,Green,Close all requisitions/PO/invoices in existing system,Not Started,2026-10-16,2026-10-22,0.0,,,5d,485,,,,,0.0,1.0,2026-08-06,2026-08-06,-50d,,,,Titan Project Team,,,Yellow
+,#UNPARSEABLE,2,Aftab Hashambhai,2,,,Green,Supplier/Titan to load catalogues on ZSN,Not Started,2026-10-23,2026-10-29,0.0,,,5d,486,,,,,0.0,1.0,2026-08-06,2026-08-07,-54d,,,,Titan Project Team,,,Yellow
+,#UNPARSEABLE,2,Aftab Hashambhai,2,,,Green,Load delta master data via integration,Not Started,2026-10-30,2026-11-05,0.0,,,5d,487,,,,,0.0,1.0,2026-07-31,2026-08-03,-63d,,,,Titan Integration Team,,,Yellow
+,#UNPARSEABLE,2,Aftab Hashambhai,2,,,Green,Titan Quality Check,Not Started,2026-11-06,2026-11-06,0.0,,,1d,488,,,,,0.0,1.0,2026-08-05,2026-08-05,-63d,,,,Titan Project Team,,,Yellow
+,#UNPARSEABLE,2,Aftab Hashambhai,2,,,Green,Go Live,Not Started,2026-11-09,2026-11-09,0.0,,,1d,,,,,,20.0,,2026-08-10,2026-08-10,-61d,,,,,,,Yellow
+,#UNPARSEABLE,3,Aftab Hashambhai,3,,,Green,Release P2P to all users requiring access for Pilot launch,Not Started,2026-11-09,2026-11-09,0.0,,,1d,489,,,,,0.0,1.0,2026-08-10,2026-08-10,-61d,,,,"Titan Project Manager, Titan Project Team, Zycus Product Specialist",,,Yellow
+,#UNPARSEABLE,2,Aftab Hashambhai,2,,,Green,Hypercare,Not Started,2026-11-10,2026-12-07,,,,20d,,,,,,0.0,,,,,,,,,,,Yellow
+,#UNPARSEABLE,3,Aftab Hashambhai,3,,,Green,Hypercare Support,Not Started,2026-11-10,2026-12-07,,,,20d,491,,,,,0.0,1.0,,,,,,,,,,

@@ -1,0 +1,14 @@
+Project Health Reporting Agent - Executive Summary Script
+
+[0:00 - 0:30] Introduction & Ingestion
+Hello Zycus Leadership. Today I am presenting the Automated Project Health Reporting Agent, a production-grade Proof of Concept designed to eliminate manual tracking and subjective bias in enterprise project management. 
+The pipeline begins by ingesting messy, unstructured CSV exports. Using Pandas, we aggressively scrub the data, normalize dates, and intelligently infer missing values, guaranteeing a clean data stream.
+
+[0:30 - 1:00] Mathematical Framework & RAG Engine
+Instead of relying purely on subjective inputs, we decouple deterministic math from AI reasoning. We dynamically calculate schedule slippage and time-to-complete burn ratios, generating a hard quantitative baseline. This guarantees that timeline drift and budget strain are flagged mathematically before a human even reviews the status.
+
+[1:00 - 1:30] Live LLM Qualitative Synthesis
+For the qualitative analysis, the pipeline routes the project data through the OpenRouter API gateway to live Large Language Models. The AI parses the project manager's comments, extracts explicit blockers, assigns a severity weight, and provides a plain-English reasoning for the health score. This creates a holistic view: deterministic math combined with contextual AI intelligence.
+
+[1:30 - 2:00] Native Reporting & GitHub Automation
+Finally, the orchestration layer synthesizes these insights into macro-trends. Using python-pptx, it generates a native executive PowerPoint slide deck completely autonomously. Simultaneously, the system executes a stateless, cloud-native REST API push to our GitHub repository, ensuring that leadership always has access to the latest data stream. Thank you.
